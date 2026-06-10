@@ -8,14 +8,17 @@ graph TB
     Phase1 --> Phase2[PHASE 2: Population Grouping]
     Phase2 --> Phase3[PHASE 3: Statistical Analyses]
     Phase3 --> Phase4[PHASE 4: HDV Detection]
+    Phase2 --> Phase6[PHASE 6: Population Structure]
     Phase4 --> Phase5[PHASE 5: Consequence Analysis]
     Phase5 --> End([Complete])
+    Phase6 --> End
     
     style Phase1 fill:#e1f5ff
     style Phase2 fill:#fff4e1
     style Phase3 fill:#ffe1f5
     style Phase4 fill:#e1ffe1
     style Phase5 fill:#f5e1ff
+    style Phase6 fill:#e1e8ff
 ```
 
 ## PHASE 1: Core Data Processing (data_proc)
@@ -207,16 +210,58 @@ graph TB
     CSQ -.-> PlotCSQ[plot_csq<br/>Visualize consequences<br/>COMMENTED OUT]
     
     subgraph "Optional Workflows - Not Active"
-        PCA[pca<br/>Population structure]
         CountAll[count_all_dataset<br/>Count all variants]
         CountPGx[count_pgx_dataset<br/>Count PGx variants]
     end
     
     style CSQ fill:#cccccc,stroke-dasharray: 5 5
     style PlotCSQ fill:#cccccc,stroke-dasharray: 5 5
-    style PCA fill:#cccccc,stroke-dasharray: 5 5
     style CountAll fill:#cccccc,stroke-dasharray: 5 5
     style CountPGx fill:#cccccc,stroke-dasharray: 5 5
+```
+
+## PHASE 6: Population Structure (PCA & ADMIXTURE)
+
+Principal Component Analysis (EIGENSOFT `smartpca`) and ADMIXTURE ancestry
+estimation run on the grouped population VCFs from Phase 2. Both are active
+analyses underlying the population-structure figures in the manuscript.
+
+```mermaid
+graph TB
+    GroupVCF[Grouped Population VCFs<br/>from Phase 2] --> Prune[pruning_vcf<br/>LD pruning -- plink2]
+
+    subgraph "PCA (pca / pca_pgx -- module/structure.nf)"
+        Prune --> CatChrm[cat_chrm_groups<br/>Merge pruned chromosomes]
+        CatChrm --> ToPlink[vcf_to_plink1<br/>Convert to PLINK PED]
+        ToPlink --> UpdPed[updated_ped<br/>Shorten IDs, set phenotype col]
+        UpdPed --> SmartPCA[smartpca_dataset<br/>EIGENSOFT smartpca<br/>numoutlieriter=0]
+        SmartPCA --> UpdEvec[update_evec<br/>Label eigenvectors by population]
+        UpdEvec --> PlotPCA[plot_pca_group<br/>PCA scatter plots]
+    end
+
+    subgraph "ADMIXTURE (module/structure_advanced.nf)"
+        ToPlink --> ToBed[ped_to_bed<br/>plink --make-bed]
+        ToBed --> RunAdm[run_admixture<br/>ADMIXTURE --cv for each K]
+        RunAdm --> CVErr[extract_cv_error<br/>Parse CV error per K]
+        CVErr --> CombCV[combine_cv_errors<br/>Select optimal K]
+        CombCV --> PlotAdm[plot_admixture<br/>Ancestry barplots + CV-error plot]
+        RunAdm --> PlotAdm
+    end
+
+    subgraph "Outputs"
+        OUT1[PCA eigenvectors<br/>+ scatter plots]
+        OUT2[ADMIXTURE Q matrices<br/>+ ancestry barplots]
+        OUT3[Optimal K<br/>+ CV-error plot]
+    end
+
+    PlotPCA --> OUT1
+    PlotAdm --> OUT2
+    CombCV --> OUT3
+
+    style SmartPCA fill:#e1e8ff
+    style RunAdm fill:#e1e8ff
+    style PlotPCA fill:#d1f5e1
+    style PlotAdm fill:#d1f5e1
 ```
 
 ## Data Flow Summary
@@ -231,9 +276,10 @@ graph LR
     E1 --> F[HDV Detection]
     E2 --> F
     F --> G[Results]
+    D --> K[PCA + ADMIXTURE<br/>Population Structure]
+    K --> G
     
     B -.-> H[Optional: CSQ]
-    B -.-> I[Optional: PCA]
     B -.-> J[Optional: Counts]
     
     style A fill:#e1f5ff
@@ -244,8 +290,8 @@ graph LR
     style E2 fill:#ffe1f5
     style F fill:#ccffcc
     style G fill:#ccffff
+    style K fill:#e1e8ff
     style H fill:#cccccc,stroke-dasharray: 5 5
-    style I fill:#cccccc,stroke-dasharray: 5 5
     style J fill:#cccccc,stroke-dasharray: 5 5
 ```
 
