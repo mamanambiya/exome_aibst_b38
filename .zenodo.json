@@ -1,0 +1,21 @@
+{
+  "title": "African Exome Analysis Workflow",
+  "description": "Nextflow DSL2 pipeline for whole-exome sequencing analysis of African populations, covering variant annotation, pharmacogenomic star-allele and HLA calling, FST and highly differentiated variant analysis, PCA and ADMIXTURE population structure, and novel-variant discovery. Underlies the manuscript \"Pharmacogenomic diversity across 12 African populations\".",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Mbiyavanga, Mamana",
+      "affiliation": "Computational Biology Division, University of Cape Town"
+    }
+  ],
+  "keywords": [
+    "nextflow",
+    "pharmacogenomics",
+    "whole-exome sequencing",
+    "African populations",
+    "population structure",
+    "bioinformatics pipeline"
+  ]
+}
