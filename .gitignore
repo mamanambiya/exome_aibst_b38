@@ -1,0 +1,42 @@
+# Nextflow
+.nextflow/
+.nextflow.log*
+work/
+results/
+report*.html
+timeline*.html
+trace*.txt
+dag*.dot
+*.pid
+
+# Editor / OS
+.vscode/
+.idea/
+.history/
+.ipynb_checkpoints/
+.DS_Store
+Icon?
+*.code-workspace
+
+# Credentials / keys (never commit)
+id_rsa*
+*.pem
+*.key
+
+# Large reference / data artefacts (regenerate or fetch separately)
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.vcf.gz.csi
+*.bam
+*.bai
+*.cram
+*.bed
+*.chain.gz
+liftOver
+
+# Backups / scratch
+*.bak
+*.bak_*
+*~
+tempCodeRunnerFile.*

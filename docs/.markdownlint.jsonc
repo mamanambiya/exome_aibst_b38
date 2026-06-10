@@ -1,0 +1,9 @@
+{
+  // Line-length limit applies to prose, but not to code blocks or tables
+  // (Mermaid diagram node definitions routinely exceed 80 chars and cannot
+  // be wrapped without breaking the diagram).
+  "MD013": {
+    "code_blocks": false,
+    "tables": false
+  }
+}

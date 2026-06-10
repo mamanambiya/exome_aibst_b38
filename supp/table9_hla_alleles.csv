@@ -1,0 +1,9 @@
+Allele,Drug_Phenotype,Evidence,KNK,KNL,NGY,TZA,TZB,SAV,ZWD,ZWS,Overall
+B*57:01,Abacavir HSR,CPIC A,0,0.056,0,0,0,0.026,0,0,0.012
+B*58:01,Allopurinol SCAR,CPIC A,0.091,0.167,0,0,0.05,0.053,0.071,0.05,0.059
+B*15:02,Carbamazepine SJS,CPIC A,0,0,0,0,0,0,0,0,0.0
+A*31:01,Carbamazepine DRESS,CPIC A,0,0.056,0,0,0,0.026,0.024,0,0.012
+B*57:02,Abacavir (potential),Level 2,0.091,0.056,0.042,0,0,0,0,0.025,0.02
+B*57:03,Abacavir (potential),Level 2,0.091,0,0,0.045,0.05,0.053,0,0.05,0.035
+B*53:01,Malaria protection,GWAS,0.136,0.056,0.167,0,0,0.105,0.071,0.125,0.091
+B*35:01,HIV progression,GWAS,0,0,0.208,0,0.05,0,0,0,0.028

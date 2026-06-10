@@ -1,0 +1,39 @@
+1KG,1000 genomes MAFs, /cbio/users/mamana/exome_aibst/results/freqs/1KG/1KG/1KG_1KG_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/1KG/1KG/1KG_1KG_annots.hdr 
+1KG_AFR,1000 genomes MAFs for African populations, /cbio/projects/001/clients/population_allele_freqs/freqs/1KG/afr/afr_1KG_*_mafs.csv, /cbio/projects/001/clients/population_allele_freqs/freqs/1KG/afr/afr_1KG_annots.hdr
+ACB,African Caribbeans in Barbados from 1000 genomes project, /cbio/users/mamana/exome_aibst/results/freqs/1KG/ACB/ACB_1KG_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/1KG/ACB/ACB_1KG_annots.hdr 
+ASW,Americans of African Ancestry in SW USA from 1000 genomes project, /cbio/users/mamana/exome_aibst/results/freqs/1KG/ASW/ASW_1KG_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/1KG/ASW/ASW_1KG_annots.hdr 
+ESN,Esan in Nigeria from 1000 genomes project, /cbio/users/mamana/exome_aibst/results/freqs/1KG/ESN/ESN_1KG_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/1KG/ESN/ESN_1KG_annots.hdr  
+GWD,Gambian in Western Divisions in the Gambia from 1000 genomes project, /cbio/users/mamana/exome_aibst/results/freqs/1KG/GWD/GWD_1KG_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/1KG/GWD/GWD_1KG_annots.hdr 
+LWK,Luhya in Webuye from 1000 genomes project, /cbio/users/mamana/exome_aibst/results/freqs/1KG/LWK/LWK_1KG_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/1KG/LWK/LWK_1KG_annots.hdr 
+MSL,Mende in Sierra Leone from 1000 genomes project, /cbio/users/mamana/exome_aibst/results/freqs/1KG/MSL/MSL_1KG_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/1KG/MSL/MSL_1KG_annots.hdr 
+YRI,Yoruba in Ibadan Nigeria from 1000 genomes project, /cbio/users/mamana/exome_aibst/results/freqs/1KG/YRI/YRI_1KG_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/1KG/YRI/YRI_1KG_annots.hdr 
+CEU,Utah Residents (CEPH) with Northern and Western European Ancestry from 1000 genomes project, /cbio/users/mamana/exome_aibst/results/freqs/1KG/CEU/CEU_1KG_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/1KG/CEU/CEU_1KG_annots.hdr 
+GBR,British in England and Scotland from 1000 genomes project, /cbio/users/mamana/exome_aibst/results/freqs/1KG/GBR/GBR_1KG_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/1KG/GBR/GBR_1KG_annots.hdr
+
+AIBST, AIBST from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/AIBST/AIBST_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/AIBST/AIBST_AIBST_annots.hdr 
+KNK, KNK from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/KNK/KNK_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/KNK/KNK_AIBST_annots.hdr 
+KNL, KNL from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/KNL/KNL_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/KNL/KNL_AIBST_annots.hdr 
+KNM, KNM from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/KNM/KNM_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/KNM/KNM_AIBST_annots.hdr 
+KNP, KNP from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/KNP/KNP_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/KNP/KNP_AIBST_annots.hdr 
+NGH, NGH from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/NGH/NGH_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/NGH/NGH_AIBST_annots.hdr 
+NGI, NGI from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/NGI/NGI_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/NGI/NGI_AIBST_annots.hdr 
+NGY, NGY from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/NGY/NGY_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/NGY/NGY_AIBST_annots.hdr 
+SAV, SAV from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/SAV/SAV_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/SAV/SAV_AIBST_annots.hdr 
+TZA, TZA from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/TZA/TZA_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/TZA/TZA_AIBST_annots.hdr 
+TZB, TZB from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/TZB/TZB_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/TZB/TZB_AIBST_annots.hdr 
+ZWD, ZWD from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/ZWD/ZWD_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/ZWD/ZWD_AIBST_annots.hdr 
+ZWS, ZWS from AIBST project, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/ZWS/ZWS_AIBST_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AIBST/ZWS/ZWS_AIBST_annots.hdr 
+
+AGVP, AGVP from AGVP project, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/AGVP/AGVP_AGVP_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/AGVP/AGVP_AGVP_annots.hdr 
+Zulu, Zulu from AGVP project, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Zulu/Zulu_AGVP_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Zulu/Zulu_AGVP_annots.hdr 
+Amhara, Amhara from AGVP project, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Amhara/Amhara_AGVP_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Amhara/Amhara_AGVP_annots.hdr 
+Baganda, Baganda from AGVP project, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Baganda/Baganda_AGVP_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Baganda/Baganda_AGVP_annots.hdr 
+Gumuz, Gumuz from AGVP project, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Gumuz/Gumuz_AGVP_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Gumuz/Gumuz_AGVP_annots.hdr 
+Oromo, Oromo from AGVP project, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Oromo/Oromo_AGVP_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Oromo/Oromo_AGVP_annots.hdr 
+Somali, Somali from AGVP project, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Somali/Somali_AGVP_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Somali/Somali_AGVP_annots.hdr 
+Wolayta, Wolayta from AGVP project, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Wolayta/Wolayta_AGVP_*_mafs.csv, /cbio/users/mamana/exome_aibst/results/freqs/AGVP/Wolayta/Wolayta_AGVP_annots.hdr 
+
+gnomad_b37,Alternate allele frequency for samples for gnomAD b37, /cbio/projects/001/clients/population_allele_freqs/freqs/gnomad_b37/gnomad_b37/gnomad_b37_gnomad_b37_*_mafs.csv, /cbio/projects/001/clients/population_allele_freqs/freqs/gnomad_b37/gnomad_b37/gnomad_b37_gnomad_b37_annots.hdr
+gnomad_b37_afr,Alternate allele frequency for samples for gnomAD b37 for African populations, /cbio/projects/001/clients/population_allele_freqs/freqs/gnomad_b37/afr/afr_gnomad_b37_*_mafs.csv, /cbio/projects/001/clients/population_allele_freqs/freqs/gnomad_b37/afr/afr_gnomad_b37_annots.hdr
+
+topmed,Alternate allele frequency for samples for topmed b37, /cbio/projects/001/clients/population_allele_freqs/freqs/topmed/topmed/topmed_topmed_*_mafs_updated.csv, /cbio/projects/001/clients/population_allele_freqs/freqs/topmed/topmed/topmed_topmed_annots.hdr

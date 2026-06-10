@@ -1,0 +1,763 @@
+Gene	Sample	Diplotype	Phenotype
+CYP2C19	KNK_KNK100_KNK100	*1/*1	Normal Metabolizer
+CYP2C19	KNK_KNK102_KNK102	*1/*1	Normal Metabolizer
+CYP2C19	KNK_KNK103_KNK103	*1/*2	Intermediate Metabolizer
+CYP2C19	KNK_KNK86_KNK86	*1/*38	Normal Metabolizer
+CYP2C19	KNK_KNK90_KNK90	*1/*2	Intermediate Metabolizer
+CYP2C19	KNK_KNK91_KNK91	*1/*2	Intermediate Metabolizer
+CYP2C19	KNK_KNK92_KNK92	*1/*1	Normal Metabolizer
+CYP2C19	KNK_KNK95_KNK95	*1/*1	Normal Metabolizer
+CYP2C19	KNK_KNK96_KNK96	*1/*1	Normal Metabolizer
+CYP2C19	KNK_KNK97_KNK97	*1/*1	Normal Metabolizer
+CYP2C19	KNK_KNK98_KNK98	*1/*15	Normal Metabolizer
+CYP2C19	KNL_KNL14_KNL14	*1/*2	Intermediate Metabolizer
+CYP2C19	KNL_KNL2_KNL2	*1/*1	Normal Metabolizer
+CYP2C19	KNL_KNL42_KNL42	*1/*1	Normal Metabolizer
+CYP2C19	KNL_KNL54_KNL54	*1/*1	Normal Metabolizer
+CYP2C19	KNL_KNL59_KNL59	*1/*35	Intermediate Metabolizer
+CYP2C19	KNL_KNL72_KNL72	*1/*2	Intermediate Metabolizer
+CYP2C19	KNL_KNL77_KNL77	*1/*1	Normal Metabolizer
+CYP2C19	KNL_KNL79_KNL79	*1/*2	Intermediate Metabolizer
+CYP2C19	KNL_KNL87_KNL87	*1/*1	Normal Metabolizer
+CYP2C19	KNM_KNM49_KNM49	*1/*1	Normal Metabolizer
+CYP2C19	KNM_KNM64_KNM64	*1/*1	Normal Metabolizer
+CYP2C19	KNM_KNM84_KNM84	*1/*1	Normal Metabolizer
+CYP2C19	KNP_KNP160_KNP160	*1/*1	Normal Metabolizer
+CYP2C19	KNP_KNP194_KNP194	*1/*1	Normal Metabolizer
+CYP2C19	KNP_KNP56_KNP56	*1/*1	Normal Metabolizer
+CYP2C19	KNP_KNP64_KNP64	*1/*1	Normal Metabolizer
+CYP2C19	NGH_NGH27_NGH27	*1/*2	Intermediate Metabolizer
+CYP2C19	NGH_NGH50_NGH50	*1/*1	Normal Metabolizer
+CYP2C19	NGI_NGI16_NGI16	*2/*2	Poor Metabolizer
+CYP2C19	NGI_NGI25_NGI25	*1/*1	Normal Metabolizer
+CYP2C19	NGI_NGI31_NGI31	*1/*2	Intermediate Metabolizer
+CYP2C19	NGI_NGI38_NGI38	*1/*2	Intermediate Metabolizer
+CYP2C19	NGI_NGI60_NGI60	*1/*1	Normal Metabolizer
+CYP2C19	NGY_NGY21_NGY21	*1/*1	Normal Metabolizer
+CYP2C19	NGY_NGY22_NGY22	*1/*1	Normal Metabolizer
+CYP2C19	NGY_NGY27_NGY27	*1/*2	Intermediate Metabolizer
+CYP2C19	NGY_NGY28_NGY28	*1/*10	Likely Intermediate Metabolizer
+CYP2C19	NGY_NGY30_NGY30	*1/*2	Intermediate Metabolizer
+CYP2C19	NGY_NGY37_NGY37	*1/*1	Normal Metabolizer
+CYP2C19	NGY_NGY3_NGY3	*1/*1	Normal Metabolizer
+CYP2C19	NGY_NGY40_NGY40	*1/*1	Normal Metabolizer
+CYP2C19	NGY_NGY42_NGY42	*1/*35	Intermediate Metabolizer
+CYP2C19	NGY_NGY44_NGY44	*1/*1	Normal Metabolizer
+CYP2C19	NGY_NGY45_NGY45	*1/*1	Normal Metabolizer
+CYP2C19	NGY_NGY47_NGY47	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV09_SAV09	*1/*2	Intermediate Metabolizer
+CYP2C19	SAV_SAV10_SAV10	*1/*9	Likely Intermediate Metabolizer
+CYP2C19	SAV_SAV16_SAV16	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV17_SAV17	*1/*2	Intermediate Metabolizer
+CYP2C19	SAV_SAV18_SAV18	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV20_SAV20	*1/*2	Intermediate Metabolizer
+CYP2C19	SAV_SAV23_SAV23	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV24_SAV24	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV26_SAV26	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV31_SAV31	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV32_SAV32	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV37_SAV37	*1/*9	Likely Intermediate Metabolizer
+CYP2C19	SAV_SAV38_SAV38	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV3_SAV3	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV45_SAV45	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV49_SAV49	*2/*9	Likely Poor Metabolizer
+CYP2C19	SAV_SAV56_SAV56	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV61_SAV61	*1/*1	Normal Metabolizer
+CYP2C19	SAV_SAV81_SAV81	*1/*1	Normal Metabolizer
+CYP2C19	TZA_TZA105_TZA105	*1/*1	Normal Metabolizer
+CYP2C19	TZA_TZA107_TZA107	*1/*1	Normal Metabolizer
+CYP2C19	TZA_TZA112_TZA112	*1/*1	Normal Metabolizer
+CYP2C19	TZA_TZA113_TZA113	*1/*12	Indeterminate
+CYP2C19	TZA_TZA115_TZA115	*1/*1	Normal Metabolizer
+CYP2C19	TZA_TZA117_TZA117	*2/*2	Poor Metabolizer
+CYP2C19	TZA_TZA123_TZA123	*1/*9	Likely Intermediate Metabolizer
+CYP2C19	TZA_TZA138_TZA138	*1/*1	Normal Metabolizer
+CYP2C19	TZA_TZA141_TZA141	*1/*2	Intermediate Metabolizer
+CYP2C19	TZA_TZA151_TZA151	*1/*1	Normal Metabolizer
+CYP2C19	TZA_TZA6_TZA6	*1/*2	Intermediate Metabolizer
+CYP2C19	TZB_TZB03_TZB03	*1/*1	Normal Metabolizer
+CYP2C19	TZB_TZB05_TZB05	*1/*9	Likely Intermediate Metabolizer
+CYP2C19	TZB_TZB19_TZB19	*1/*1	Normal Metabolizer
+CYP2C19	TZB_TZB22_TZB22	*1/*1	Normal Metabolizer
+CYP2C19	TZB_TZB24_TZB24	*1/*1	Normal Metabolizer
+CYP2C19	TZB_TZB25_TZB25	*1/*2	Intermediate Metabolizer
+CYP2C19	TZB_TZB46_TZB46	*1/*2	Intermediate Metabolizer
+CYP2C19	TZB_TZB50_TZB50	*1/*1	Normal Metabolizer
+CYP2C19	TZB_TZB57_TZB57	*1/*1	Normal Metabolizer
+CYP2C19	TZB_TZB61_TZB61	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD10_ZWD10	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD13_ZWD13	*1/*35	Intermediate Metabolizer
+CYP2C19	ZWD_ZWD16_ZWD16	*1/*15	Normal Metabolizer
+CYP2C19	ZWD_ZWD23_ZWD23	*1/*15	Normal Metabolizer
+CYP2C19	ZWD_ZWD24_ZWD24	*1/*2	Intermediate Metabolizer
+CYP2C19	ZWD_ZWD30_ZWD30	*1/*2	Intermediate Metabolizer
+CYP2C19	ZWD_ZWD32_ZWD32	*2/*9	Likely Poor Metabolizer
+CYP2C19	ZWD_ZWD33_ZWD33	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD35_ZWD35	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD37_ZWD37	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD3_ZWD3	*1/*2	Intermediate Metabolizer
+CYP2C19	ZWD_ZWD40_ZWD40	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD47_ZWD47	*1/*15	Normal Metabolizer
+CYP2C19	ZWD_ZWD4_ZWD4	*1/*2	Intermediate Metabolizer
+CYP2C19	ZWD_ZWD52_ZWD52	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD53_ZWD53	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD54_ZWD54	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD57_ZWD57	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD58_ZWD58	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD62_ZWD62	*1/*1	Normal Metabolizer
+CYP2C19	ZWD_ZWD8_ZWD8	*1/*1	Normal Metabolizer
+CYP2C19	ZWS_ZWS10_ZWS10	*1/*1	Normal Metabolizer
+CYP2C19	ZWS_ZWS11_ZWS11	*1/*9	Likely Intermediate Metabolizer
+CYP2C19	ZWS_ZWS19_ZWS19	*1/*1	Normal Metabolizer
+CYP2C19	ZWS_ZWS1_ZWS1	*1/*1	Normal Metabolizer
+CYP2C19	ZWS_ZWS20_ZWS20	*1/*1	Normal Metabolizer
+CYP2C19	ZWS_ZWS21_ZWS21	*1/*2	Intermediate Metabolizer
+CYP2C19	ZWS_ZWS23_ZWS23	*1/*2	Intermediate Metabolizer
+CYP2C19	ZWS_ZWS28_ZWS28	*2/*2	Poor Metabolizer
+CYP2C19	ZWS_ZWS29_ZWS29	*1/*1	Normal Metabolizer
+CYP2C19	ZWS_ZWS30_ZWS30	*1/*9	Likely Intermediate Metabolizer
+CYP2C19	ZWS_ZWS32_ZWS32	*1/*2	Intermediate Metabolizer
+CYP2C19	ZWS_ZWS33_ZWS33	*1/*1	Normal Metabolizer
+CYP2C19	ZWS_ZWS34_ZWS34	*1/*9	Likely Intermediate Metabolizer
+CYP2C19	ZWS_ZWS35_ZWS35	*1/*2	Intermediate Metabolizer
+CYP2C19	ZWS_ZWS37_ZWS37	*1/*1	Normal Metabolizer
+CYP2C19	ZWS_ZWS39_ZWS39	*1/*2	Intermediate Metabolizer
+CYP2C19	ZWS_ZWS40_ZWS40	*1/*9	Likely Intermediate Metabolizer
+CYP2C19	ZWS_ZWS4_ZWS4	*1/*1	Normal Metabolizer
+CYP2C19	ZWS_ZWS5_ZWS5	*1/*1	Normal Metabolizer
+CYP2C19	ZWS_ZWS6_ZWS6	*1/*1	Normal Metabolizer
+CYP2C9	KNK_KNK100_KNK100	*1/*8	Intermediate Metabolizer
+CYP2C9	KNK_KNK102_KNK102	*8/*9	Intermediate Metabolizer
+CYP2C9	KNK_KNK103_KNK103	*1/*1	Normal Metabolizer
+CYP2C9	KNK_KNK86_KNK86	*1/*3	Intermediate Metabolizer
+CYP2C9	KNK_KNK90_KNK90	*1/*9	Normal Metabolizer
+CYP2C9	KNK_KNK91_KNK91	*1/*9	Normal Metabolizer
+CYP2C9	KNK_KNK92_KNK92	*1/*1	Normal Metabolizer
+CYP2C9	KNK_KNK95_KNK95	*1/*1	Normal Metabolizer
+CYP2C9	KNK_KNK96_KNK96	*1/*1	Normal Metabolizer
+CYP2C9	KNK_KNK97_KNK97	*1/*1	Normal Metabolizer
+CYP2C9	KNK_KNK98_KNK98	*1/*1	Normal Metabolizer
+CYP2C9	KNL_KNL14_KNL14	*1/*1	Normal Metabolizer
+CYP2C9	KNL_KNL2_KNL2	*1/*1	Normal Metabolizer
+CYP2C9	KNL_KNL42_KNL42	*1/*9	Normal Metabolizer
+CYP2C9	KNL_KNL54_KNL54	*1/*1	Normal Metabolizer
+CYP2C9	KNL_KNL59_KNL59	*1/*8	Intermediate Metabolizer
+CYP2C9	KNL_KNL72_KNL72	*1/*9	Normal Metabolizer
+CYP2C9	KNL_KNL77_KNL77	*1/*1	Normal Metabolizer
+CYP2C9	KNL_KNL79_KNL79	*1/*1	Normal Metabolizer
+CYP2C9	KNL_KNL87_KNL87	*1/*1	Normal Metabolizer
+CYP2C9	KNM_KNM49_KNM49	*1/*1	Normal Metabolizer
+CYP2C9	KNM_KNM64_KNM64	*1/*1	Normal Metabolizer
+CYP2C9	KNM_KNM84_KNM84	*1/*1	Normal Metabolizer
+CYP2C9	KNP_KNP160_KNP160	*1/*1	Normal Metabolizer
+CYP2C9	KNP_KNP194_KNP194	*1/*5	Intermediate Metabolizer
+CYP2C9	KNP_KNP56_KNP56	*1/*2	Intermediate Metabolizer
+CYP2C9	KNP_KNP64_KNP64	*9/*9	Normal Metabolizer
+CYP2C9	NGH_NGH27_NGH27	*1/*5	Intermediate Metabolizer
+CYP2C9	NGH_NGH50_NGH50	*1/*9	Normal Metabolizer
+CYP2C9	NGI_NGI16_NGI16	*1/*1	Normal Metabolizer
+CYP2C9	NGI_NGI25_NGI25	*1/*1	Normal Metabolizer
+CYP2C9	NGI_NGI31_NGI31	*5/*36	Indeterminate
+CYP2C9	NGI_NGI38_NGI38	*1/*1	Normal Metabolizer
+CYP2C9	NGI_NGI60_NGI60	*1/*1	Normal Metabolizer
+CYP2C9	NGY_NGY21_NGY21	*1/*1	Normal Metabolizer
+CYP2C9	NGY_NGY22_NGY22	*1/*1	Normal Metabolizer
+CYP2C9	NGY_NGY27_NGY27	*1/*1	Normal Metabolizer
+CYP2C9	NGY_NGY28_NGY28	*1/*9	Normal Metabolizer
+CYP2C9	NGY_NGY30_NGY30	*1/*1	Normal Metabolizer
+CYP2C9	NGY_NGY37_NGY37	*1/*9	Normal Metabolizer
+CYP2C9	NGY_NGY3_NGY3	*1/*1	Normal Metabolizer
+CYP2C9	NGY_NGY40_NGY40	*1/*1	Normal Metabolizer
+CYP2C9	NGY_NGY42_NGY42	*5/*36	Indeterminate
+CYP2C9	NGY_NGY44_NGY44	*1/*9	Normal Metabolizer
+CYP2C9	NGY_NGY45_NGY45	*1/*1	Normal Metabolizer
+CYP2C9	NGY_NGY47_NGY47	*1/*9	Normal Metabolizer
+CYP2C9	SAV_SAV09_SAV09	*1/*8	Intermediate Metabolizer
+CYP2C9	SAV_SAV10_SAV10	*1/*8	Intermediate Metabolizer
+CYP2C9	SAV_SAV16_SAV16	*1/*8	Intermediate Metabolizer
+CYP2C9	SAV_SAV17_SAV17	*1/*8	Intermediate Metabolizer
+CYP2C9	SAV_SAV18_SAV18	*1/*1	Normal Metabolizer
+CYP2C9	SAV_SAV20_SAV20	*1/*1	Normal Metabolizer
+CYP2C9	SAV_SAV23_SAV23	*1/*8	Intermediate Metabolizer
+CYP2C9	SAV_SAV24_SAV24	*1/*8	Intermediate Metabolizer
+CYP2C9	SAV_SAV26_SAV26	*5/*8	Intermediate Metabolizer
+CYP2C9	SAV_SAV31_SAV31	*1/*9	Normal Metabolizer
+CYP2C9	SAV_SAV32_SAV32	*1/*1	Normal Metabolizer
+CYP2C9	SAV_SAV37_SAV37	*1/*1	Normal Metabolizer
+CYP2C9	SAV_SAV38_SAV38	*1/*9	Normal Metabolizer
+CYP2C9	SAV_SAV3_SAV3	*1/*1	Normal Metabolizer
+CYP2C9	SAV_SAV45_SAV45	*1/*1	Normal Metabolizer
+CYP2C9	SAV_SAV49_SAV49	*1/*1	Normal Metabolizer
+CYP2C9	SAV_SAV56_SAV56	*9/*9	Normal Metabolizer
+CYP2C9	SAV_SAV61_SAV61	*1/*8	Intermediate Metabolizer
+CYP2C9	SAV_SAV81_SAV81	*1/*9	Normal Metabolizer
+CYP2C9	TZA_TZA105_TZA105	*1/*8	Intermediate Metabolizer
+CYP2C9	TZA_TZA107_TZA107	*1/*1	Normal Metabolizer
+CYP2C9	TZA_TZA112_TZA112	*1/*1	Normal Metabolizer
+CYP2C9	TZA_TZA113_TZA113	*1/*9	Normal Metabolizer
+CYP2C9	TZA_TZA115_TZA115	*8/*9	Intermediate Metabolizer
+CYP2C9	TZA_TZA117_TZA117	*1/*1	Normal Metabolizer
+CYP2C9	TZA_TZA123_TZA123	*1/*1	Normal Metabolizer
+CYP2C9	TZA_TZA138_TZA138	*1/*9	Normal Metabolizer
+CYP2C9	TZA_TZA141_TZA141	*1/*8	Intermediate Metabolizer
+CYP2C9	TZA_TZA151_TZA151	*1/*1	Normal Metabolizer
+CYP2C9	TZA_TZA6_TZA6	*1/*1	Normal Metabolizer
+CYP2C9	TZB_TZB03_TZB03	*8/*8	Intermediate Metabolizer
+CYP2C9	TZB_TZB05_TZB05	*1/*9	Normal Metabolizer
+CYP2C9	TZB_TZB19_TZB19	*1/*8	Intermediate Metabolizer
+CYP2C9	TZB_TZB22_TZB22	*1/*9	Normal Metabolizer
+CYP2C9	TZB_TZB24_TZB24	*1/*9	Normal Metabolizer
+CYP2C9	TZB_TZB25_TZB25	*1/*8	Intermediate Metabolizer
+CYP2C9	TZB_TZB46_TZB46	*1/*8	Intermediate Metabolizer
+CYP2C9	TZB_TZB50_TZB50	*1/*1	Normal Metabolizer
+CYP2C9	TZB_TZB57_TZB57	*9/*9	Normal Metabolizer
+CYP2C9	TZB_TZB61_TZB61	*1/*1	Normal Metabolizer
+CYP2C9	ZWD_ZWD10_ZWD10	*1/*1	Normal Metabolizer
+CYP2C9	ZWD_ZWD13_ZWD13	*1/*45	Intermediate Metabolizer
+CYP2C9	ZWD_ZWD16_ZWD16	*9/*45	Intermediate Metabolizer
+CYP2C9	ZWD_ZWD23_ZWD23	*1/*45	Intermediate Metabolizer
+CYP2C9	ZWD_ZWD24_ZWD24	*1/*1	Normal Metabolizer
+CYP2C9	ZWD_ZWD30_ZWD30	*1/*1	Normal Metabolizer
+CYP2C9	ZWD_ZWD32_ZWD32	*1/*1	Normal Metabolizer
+CYP2C9	ZWD_ZWD33_ZWD33	*1/*9	Normal Metabolizer
+CYP2C9	ZWD_ZWD35_ZWD35	*1/*9	Normal Metabolizer
+CYP2C9	ZWD_ZWD37_ZWD37	*1/*1	Normal Metabolizer
+CYP2C9	ZWD_ZWD3_ZWD3	*1/*1	Normal Metabolizer
+CYP2C9	ZWD_ZWD40_ZWD40	*1/*9	Normal Metabolizer
+CYP2C9	ZWD_ZWD47_ZWD47	*1/*45	Intermediate Metabolizer
+CYP2C9	ZWD_ZWD4_ZWD4	*1/*8	Intermediate Metabolizer
+CYP2C9	ZWD_ZWD52_ZWD52	*1/*9	Normal Metabolizer
+CYP2C9	ZWD_ZWD53_ZWD53	*1/*9	Normal Metabolizer
+CYP2C9	ZWD_ZWD54_ZWD54	*1/*9	Normal Metabolizer
+CYP2C9	ZWD_ZWD57_ZWD57	*8/*9	Intermediate Metabolizer
+CYP2C9	ZWD_ZWD58_ZWD58	*1/*1	Normal Metabolizer
+CYP2C9	ZWD_ZWD62_ZWD62	*1/*1	Normal Metabolizer
+CYP2C9	ZWD_ZWD8_ZWD8	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS10_ZWS10	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS11_ZWS11	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS19_ZWS19	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS1_ZWS1	*1/*5	Intermediate Metabolizer
+CYP2C9	ZWS_ZWS20_ZWS20	*1/*8	Intermediate Metabolizer
+CYP2C9	ZWS_ZWS21_ZWS21	*1/*8	Intermediate Metabolizer
+CYP2C9	ZWS_ZWS23_ZWS23	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS28_ZWS28	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS29_ZWS29	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS30_ZWS30	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS32_ZWS32	*9/*9	Normal Metabolizer
+CYP2C9	ZWS_ZWS33_ZWS33	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS34_ZWS34	*1/*5	Intermediate Metabolizer
+CYP2C9	ZWS_ZWS35_ZWS35	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS37_ZWS37	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS39_ZWS39	*1/*8	Intermediate Metabolizer
+CYP2C9	ZWS_ZWS40_ZWS40	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS4_ZWS4	*1/*8	Intermediate Metabolizer
+CYP2C9	ZWS_ZWS5_ZWS5	*1/*1	Normal Metabolizer
+CYP2C9	ZWS_ZWS6_ZWS6	*1/*9	Normal Metabolizer
+CYP3A5	KNK_KNK100_KNK100	*1/*6	Intermediate Metabolizer
+CYP3A5	KNK_KNK102_KNK102	*1/*1	Normal Metabolizer
+CYP3A5	KNK_KNK103_KNK103	*1/*1	Normal Metabolizer
+CYP3A5	KNK_KNK86_KNK86	*1/*3	Intermediate Metabolizer
+CYP3A5	KNK_KNK90_KNK90	*3/*3	Poor Metabolizer
+CYP3A5	KNK_KNK91_KNK91	*1/*6	Intermediate Metabolizer
+CYP3A5	KNK_KNK92_KNK92	*1/*3	Intermediate Metabolizer
+CYP3A5	KNK_KNK95_KNK95	*3/*3	Poor Metabolizer
+CYP3A5	KNK_KNK96_KNK96	*1/*7	Intermediate Metabolizer
+CYP3A5	KNK_KNK97_KNK97	*1/*1	Normal Metabolizer
+CYP3A5	KNK_KNK98_KNK98	*1/*7	Intermediate Metabolizer
+CYP3A5	KNL_KNL14_KNL14	*1/*3	Intermediate Metabolizer
+CYP3A5	KNL_KNL2_KNL2	*1/*1	Normal Metabolizer
+CYP3A5	KNL_KNL42_KNL42	*1/*6	Intermediate Metabolizer
+CYP3A5	KNL_KNL54_KNL54	*1/*6	Intermediate Metabolizer
+CYP3A5	KNL_KNL59_KNL59	*3/*6	Poor Metabolizer
+CYP3A5	KNL_KNL72_KNL72	*3/*3	Poor Metabolizer
+CYP3A5	KNL_KNL77_KNL77	*1/*6	Intermediate Metabolizer
+CYP3A5	KNL_KNL79_KNL79	*1/*7	Intermediate Metabolizer
+CYP3A5	KNL_KNL87_KNL87	*1/*1	Normal Metabolizer
+CYP3A5	KNM_KNM49_KNM49	*3/*7	Poor Metabolizer
+CYP3A5	KNM_KNM64_KNM64	*1/*3	Intermediate Metabolizer
+CYP3A5	KNM_KNM84_KNM84	*1/*1	Normal Metabolizer
+CYP3A5	KNP_KNP160_KNP160	*1/*3	Intermediate Metabolizer
+CYP3A5	KNP_KNP194_KNP194	*1/*7	Intermediate Metabolizer
+CYP3A5	KNP_KNP56_KNP56	*1/*1	Normal Metabolizer
+CYP3A5	KNP_KNP64_KNP64	*1/*3	Intermediate Metabolizer
+CYP3A5	NGH_NGH27_NGH27	*1/*6	Intermediate Metabolizer
+CYP3A5	NGH_NGH50_NGH50	*1/*3	Intermediate Metabolizer
+CYP3A5	NGI_NGI16_NGI16	*1/*3	Intermediate Metabolizer
+CYP3A5	NGI_NGI25_NGI25	*1/*7	Intermediate Metabolizer
+CYP3A5	NGI_NGI31_NGI31	*1/*1	Normal Metabolizer
+CYP3A5	NGI_NGI38_NGI38	*1/*7	Intermediate Metabolizer
+CYP3A5	NGI_NGI60_NGI60	*1/*6	Intermediate Metabolizer
+CYP3A5	NGY_NGY21_NGY21	*1/*1	Normal Metabolizer
+CYP3A5	NGY_NGY22_NGY22	*1/*1	Normal Metabolizer
+CYP3A5	NGY_NGY27_NGY27	*1/*7	Intermediate Metabolizer
+CYP3A5	NGY_NGY28_NGY28	*1/*7	Intermediate Metabolizer
+CYP3A5	NGY_NGY30_NGY30	*3/*6	Poor Metabolizer
+CYP3A5	NGY_NGY37_NGY37	*3/*3	Poor Metabolizer
+CYP3A5	NGY_NGY3_NGY3	*3/*7	Poor Metabolizer
+CYP3A5	NGY_NGY40_NGY40	*1/*6	Intermediate Metabolizer
+CYP3A5	NGY_NGY42_NGY42	*1/*7	Intermediate Metabolizer
+CYP3A5	NGY_NGY44_NGY44	*1/*3	Intermediate Metabolizer
+CYP3A5	NGY_NGY45_NGY45	*1/*6	Intermediate Metabolizer
+CYP3A5	NGY_NGY47_NGY47	*1/*1	Normal Metabolizer
+CYP3A5	SAV_SAV09_SAV09	*1/*6	Intermediate Metabolizer
+CYP3A5	SAV_SAV10_SAV10	*7/*7	Poor Metabolizer
+CYP3A5	SAV_SAV16_SAV16	*1/*6	Intermediate Metabolizer
+CYP3A5	SAV_SAV17_SAV17	*1/*7	Intermediate Metabolizer
+CYP3A5	SAV_SAV18_SAV18	*1/*1	Normal Metabolizer
+CYP3A5	SAV_SAV20_SAV20	*1/*6	Intermediate Metabolizer
+CYP3A5	SAV_SAV23_SAV23	*1/*1	Normal Metabolizer
+CYP3A5	SAV_SAV24_SAV24	*3/*6	Poor Metabolizer
+CYP3A5	SAV_SAV26_SAV26	*1/*3	Intermediate Metabolizer
+CYP3A5	SAV_SAV31_SAV31	*1/*6	Intermediate Metabolizer
+CYP3A5	SAV_SAV32_SAV32	*6/*7	Poor Metabolizer
+CYP3A5	SAV_SAV37_SAV37	*1/*1	Normal Metabolizer
+CYP3A5	SAV_SAV38_SAV38	*1/*7	Intermediate Metabolizer
+CYP3A5	SAV_SAV3_SAV3	*1/*7	Intermediate Metabolizer
+CYP3A5	SAV_SAV45_SAV45	*3/*6	Poor Metabolizer
+CYP3A5	SAV_SAV49_SAV49	*6/*7	Poor Metabolizer
+CYP3A5	SAV_SAV56_SAV56	*1/*1	Normal Metabolizer
+CYP3A5	SAV_SAV61_SAV61	*3/*7	Poor Metabolizer
+CYP3A5	SAV_SAV81_SAV81	*1/*1	Normal Metabolizer
+CYP3A5	TZA_TZA105_TZA105	*1/*3	Intermediate Metabolizer
+CYP3A5	TZA_TZA107_TZA107	*1/*7	Intermediate Metabolizer
+CYP3A5	TZA_TZA112_TZA112	*1/*6	Intermediate Metabolizer
+CYP3A5	TZA_TZA113_TZA113	*1/*6	Intermediate Metabolizer
+CYP3A5	TZA_TZA115_TZA115	*1/*3	Intermediate Metabolizer
+CYP3A5	TZA_TZA117_TZA117	*1/*1	Normal Metabolizer
+CYP3A5	TZA_TZA123_TZA123	*1/*7	Intermediate Metabolizer
+CYP3A5	TZA_TZA138_TZA138	*3/*6	Poor Metabolizer
+CYP3A5	TZA_TZA141_TZA141	*6/*7	Poor Metabolizer
+CYP3A5	TZA_TZA151_TZA151	*3/*6	Poor Metabolizer
+CYP3A5	TZA_TZA6_TZA6	*1/*1	Normal Metabolizer
+CYP3A5	TZB_TZB03_TZB03	*1/*6	Intermediate Metabolizer
+CYP3A5	TZB_TZB05_TZB05	*1/*3	Intermediate Metabolizer
+CYP3A5	TZB_TZB19_TZB19	*1/*6	Intermediate Metabolizer
+CYP3A5	TZB_TZB22_TZB22	*3/*7	Poor Metabolizer
+CYP3A5	TZB_TZB24_TZB24	*1/*3	Intermediate Metabolizer
+CYP3A5	TZB_TZB25_TZB25	*1/*1	Normal Metabolizer
+CYP3A5	TZB_TZB46_TZB46	*3/*3	Poor Metabolizer
+CYP3A5	TZB_TZB50_TZB50	*7/*7	Poor Metabolizer
+CYP3A5	TZB_TZB57_TZB57	*1/*1	Normal Metabolizer
+CYP3A5	TZB_TZB61_TZB61	*3/*6	Poor Metabolizer
+CYP3A5	ZWD_ZWD10_ZWD10	*3/*6	Poor Metabolizer
+CYP3A5	ZWD_ZWD13_ZWD13	*1/*3	Intermediate Metabolizer
+CYP3A5	ZWD_ZWD16_ZWD16	*3/*6	Poor Metabolizer
+CYP3A5	ZWD_ZWD23_ZWD23	*1/*7	Intermediate Metabolizer
+CYP3A5	ZWD_ZWD24_ZWD24	*3/*6	Poor Metabolizer
+CYP3A5	ZWD_ZWD30_ZWD30	*1/*6	Intermediate Metabolizer
+CYP3A5	ZWD_ZWD32_ZWD32	*3/*7	Poor Metabolizer
+CYP3A5	ZWD_ZWD33_ZWD33	*1/*7	Intermediate Metabolizer
+CYP3A5	ZWD_ZWD35_ZWD35	*1/*6	Intermediate Metabolizer
+CYP3A5	ZWD_ZWD37_ZWD37	*1/*3	Intermediate Metabolizer
+CYP3A5	ZWD_ZWD3_ZWD3	*6/*6	Poor Metabolizer
+CYP3A5	ZWD_ZWD40_ZWD40	*3/*6	Poor Metabolizer
+CYP3A5	ZWD_ZWD47_ZWD47	*3/*6	Poor Metabolizer
+CYP3A5	ZWD_ZWD4_ZWD4	*1/*1	Normal Metabolizer
+CYP3A5	ZWD_ZWD52_ZWD52	*1/*7	Intermediate Metabolizer
+CYP3A5	ZWD_ZWD53_ZWD53	*1/*6	Intermediate Metabolizer
+CYP3A5	ZWD_ZWD54_ZWD54	*3/*6	Poor Metabolizer
+CYP3A5	ZWD_ZWD57_ZWD57	*6/*6	Poor Metabolizer
+CYP3A5	ZWD_ZWD58_ZWD58	*7/*7	Poor Metabolizer
+CYP3A5	ZWD_ZWD62_ZWD62	*1/*6	Intermediate Metabolizer
+CYP3A5	ZWD_ZWD8_ZWD8	*1/*6	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS10_ZWS10	*3/*6	Poor Metabolizer
+CYP3A5	ZWS_ZWS11_ZWS11	*1/*3	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS19_ZWS19	*1/*1	Normal Metabolizer
+CYP3A5	ZWS_ZWS1_ZWS1	*1/*6	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS20_ZWS20	*1/*1	Normal Metabolizer
+CYP3A5	ZWS_ZWS21_ZWS21	*1/*3	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS23_ZWS23	*3/*3	Poor Metabolizer
+CYP3A5	ZWS_ZWS28_ZWS28	*1/*7	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS29_ZWS29	*1/*7	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS30_ZWS30	*6/*7	Poor Metabolizer
+CYP3A5	ZWS_ZWS32_ZWS32	*1/*3	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS33_ZWS33	*3/*7	Poor Metabolizer
+CYP3A5	ZWS_ZWS34_ZWS34	*1/*6	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS35_ZWS35	*1/*6	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS37_ZWS37	*1/*6	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS39_ZWS39	*1/*1	Normal Metabolizer
+CYP3A5	ZWS_ZWS40_ZWS40	*1/*7	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS4_ZWS4	*3/*7	Poor Metabolizer
+CYP3A5	ZWS_ZWS5_ZWS5	*1/*6	Intermediate Metabolizer
+CYP3A5	ZWS_ZWS6_ZWS6	*1/*3	Intermediate Metabolizer
+NAT2	KNK_KNK100_KNK100	*5/*5	Indeterminate
+NAT2	KNK_KNK102_KNK102	*4/*5	Indeterminate
+NAT2	KNK_KNK103_KNK103	*5/*5	Indeterminate
+NAT2	KNK_KNK86_KNK86	*5/*6	Indeterminate
+NAT2	KNK_KNK90_KNK90	*5/*5	Indeterminate
+NAT2	KNK_KNK91_KNK91	*5/*12	Indeterminate
+NAT2	KNK_KNK92_KNK92	*5/*6	Indeterminate
+NAT2	KNK_KNK95_KNK95	*5/*5	Indeterminate
+NAT2	KNK_KNK96_KNK96	*4/*5	Indeterminate
+NAT2	KNK_KNK97_KNK97	*5/*12	Indeterminate
+NAT2	KNK_KNK98_KNK98	*5/*6	Indeterminate
+NAT2	KNL_KNL14_KNL14	*12/*24	Indeterminate
+NAT2	KNL_KNL2_KNL2	*6/*6	Indeterminate
+NAT2	KNL_KNL42_KNL42	*4/*5	Indeterminate
+NAT2	KNL_KNL54_KNL54	*6/*12	Indeterminate
+NAT2	KNL_KNL59_KNL59	*5/*5	Indeterminate
+NAT2	KNL_KNL72_KNL72	*5/*12	Indeterminate
+NAT2	KNL_KNL77_KNL77	*4/*5	Indeterminate
+NAT2	KNL_KNL79_KNL79	*6/*13	Indeterminate
+NAT2	KNL_KNL87_KNL87	*5/*5	Indeterminate
+NAT2	KNM_KNM49_KNM49	*5/*12	Indeterminate
+NAT2	KNM_KNM64_KNM64	*5/*6	Indeterminate
+NAT2	KNM_KNM84_KNM84	*5/*5	Indeterminate
+NAT2	KNP_KNP160_KNP160	*5/*6	Indeterminate
+NAT2	KNP_KNP194_KNP194	*5/*6	Indeterminate
+NAT2	KNP_KNP56_KNP56	*5/*6	Indeterminate
+NAT2	KNP_KNP64_KNP64	*12/*14	Indeterminate
+NAT2	NGH_NGH27_NGH27	*5/*13	Indeterminate
+NAT2	NGH_NGH50_NGH50	*6/*6	Indeterminate
+NAT2	NGI_NGI16_NGI16	*5/*6	Indeterminate
+NAT2	NGI_NGI25_NGI25	*6/*7	Indeterminate
+NAT2	NGI_NGI31_NGI31	*4/*14	Indeterminate
+NAT2	NGI_NGI38_NGI38	*5/*5	Indeterminate
+NAT2	NGI_NGI60_NGI60	*5/*6	Indeterminate
+NAT2	NGY_NGY21_NGY21	*4/*12	Indeterminate
+NAT2	NGY_NGY22_NGY22	*5/*13	Indeterminate
+NAT2	NGY_NGY27_NGY27	*6/*13	Indeterminate
+NAT2	NGY_NGY28_NGY28	*7/*13	Indeterminate
+NAT2	NGY_NGY30_NGY30	*5/*5	Indeterminate
+NAT2	NGY_NGY37_NGY37	*5/*13	Indeterminate
+NAT2	NGY_NGY3_NGY3	*5/*7	Indeterminate
+NAT2	NGY_NGY40_NGY40	*6/*13	Indeterminate
+NAT2	NGY_NGY42_NGY42	*12/*12	Indeterminate
+NAT2	NGY_NGY44_NGY44	*5/*6	Indeterminate
+NAT2	NGY_NGY45_NGY45	*5/*14	Indeterminate
+NAT2	NGY_NGY47_NGY47	*4/*6	Indeterminate
+NAT2	SAV_SAV09_SAV09	*5/*5	Indeterminate
+NAT2	SAV_SAV10_SAV10	*5/*14	Indeterminate
+NAT2	SAV_SAV16_SAV16	*4/*12	Indeterminate
+NAT2	SAV_SAV17_SAV17	*4/*12	Indeterminate
+NAT2	SAV_SAV18_SAV18	*6/*14	Indeterminate
+NAT2	SAV_SAV20_SAV20	*6/*6	Indeterminate
+NAT2	SAV_SAV23_SAV23	*5/*13	Indeterminate
+NAT2	SAV_SAV24_SAV24	*12/*12	Indeterminate
+NAT2	SAV_SAV26_SAV26	*6/*12	Indeterminate
+NAT2	SAV_SAV31_SAV31	*4/*5	Indeterminate
+NAT2	SAV_SAV32_SAV32	*6/*6	Indeterminate
+NAT2	SAV_SAV37_SAV37	*5/*14	Indeterminate
+NAT2	SAV_SAV38_SAV38	*5/*6	Indeterminate
+NAT2	SAV_SAV3_SAV3	*5/*6	Indeterminate
+NAT2	SAV_SAV45_SAV45	*6/*7	Indeterminate
+NAT2	SAV_SAV49_SAV49	*5/*6	Indeterminate
+NAT2	SAV_SAV56_SAV56	*5/*12	Indeterminate
+NAT2	SAV_SAV61_SAV61	*4/*5	Indeterminate
+NAT2	SAV_SAV81_SAV81	*5/*12	Indeterminate
+NAT2	TZA_TZA105_TZA105	*5/*6	Indeterminate
+NAT2	TZA_TZA107_TZA107	*14/*14	Indeterminate
+NAT2	TZA_TZA112_TZA112	*5/*5	Indeterminate
+NAT2	TZA_TZA113_TZA113	*5/*5	Indeterminate
+NAT2	TZA_TZA115_TZA115	*5/*6	Indeterminate
+NAT2	TZA_TZA117_TZA117	*5/*24	Indeterminate
+NAT2	TZA_TZA123_TZA123	*5/*5	Indeterminate
+NAT2	TZA_TZA138_TZA138	*6/*6	Indeterminate
+NAT2	TZA_TZA141_TZA141	*5/*22	Indeterminate
+NAT2	TZA_TZA151_TZA151	*6/*6	Indeterminate
+NAT2	TZA_TZA6_TZA6	*6/*13	Indeterminate
+NAT2	TZB_TZB03_TZB03	*6/*6	Indeterminate
+NAT2	TZB_TZB05_TZB05	*5/*12	Indeterminate
+NAT2	TZB_TZB19_TZB19	*13/*14	Indeterminate
+NAT2	TZB_TZB22_TZB22	*4/*12	Indeterminate
+NAT2	TZB_TZB24_TZB24	*4/*6	Indeterminate
+NAT2	TZB_TZB25_TZB25	*6/*6	Indeterminate
+NAT2	TZB_TZB46_TZB46	*5/*6	Indeterminate
+NAT2	TZB_TZB50_TZB50	*5/*12	Indeterminate
+NAT2	TZB_TZB57_TZB57	*5/*24	Indeterminate
+NAT2	TZB_TZB61_TZB61	*5/*5	Indeterminate
+NAT2	ZWD_ZWD10_ZWD10	*4/*12	Indeterminate
+NAT2	ZWD_ZWD13_ZWD13	*4/*5	Indeterminate
+NAT2	ZWD_ZWD16_ZWD16	*5/*14	Indeterminate
+NAT2	ZWD_ZWD23_ZWD23	*5/*6	Indeterminate
+NAT2	ZWD_ZWD24_ZWD24	*12/*14	Indeterminate
+NAT2	ZWD_ZWD30_ZWD30	*5/*14	Indeterminate
+NAT2	ZWD_ZWD32_ZWD32	*6/*12	Indeterminate
+NAT2	ZWD_ZWD33_ZWD33	*4/*12	Indeterminate
+NAT2	ZWD_ZWD35_ZWD35	*4/*5	Indeterminate
+NAT2	ZWD_ZWD37_ZWD37	*5/*12	Indeterminate
+NAT2	ZWD_ZWD3_ZWD3	*12/*14	Indeterminate
+NAT2	ZWD_ZWD40_ZWD40	*12/*14	Indeterminate
+NAT2	ZWD_ZWD47_ZWD47	*5/*12	Indeterminate
+NAT2	ZWD_ZWD4_ZWD4	*12/*14	Indeterminate
+NAT2	ZWD_ZWD52_ZWD52	*4/*5	Indeterminate
+NAT2	ZWD_ZWD53_ZWD53	*4/*6	Indeterminate
+NAT2	ZWD_ZWD54_ZWD54	*4/*5	Indeterminate
+NAT2	ZWD_ZWD57_ZWD57	*12/*14	Indeterminate
+NAT2	ZWD_ZWD58_ZWD58	*5/*5	Indeterminate
+NAT2	ZWD_ZWD62_ZWD62	*4/*12	Indeterminate
+NAT2	ZWD_ZWD8_ZWD8	*12/*14	Indeterminate
+NAT2	ZWS_ZWS10_ZWS10	*5/*6	Indeterminate
+NAT2	ZWS_ZWS11_ZWS11	*5/*6	Indeterminate
+NAT2	ZWS_ZWS19_ZWS19	*5/*6	Indeterminate
+NAT2	ZWS_ZWS1_ZWS1	*5/*5	Indeterminate
+NAT2	ZWS_ZWS20_ZWS20	*6/*12	Indeterminate
+NAT2	ZWS_ZWS21_ZWS21	*5/*5	Indeterminate
+NAT2	ZWS_ZWS23_ZWS23	*5/*6	Indeterminate
+NAT2	ZWS_ZWS28_ZWS28	*5/*6	Indeterminate
+NAT2	ZWS_ZWS29_ZWS29	*5/*6	Indeterminate
+NAT2	ZWS_ZWS30_ZWS30	*4/*5	Indeterminate
+NAT2	ZWS_ZWS32_ZWS32	*13/*14	Indeterminate
+NAT2	ZWS_ZWS33_ZWS33	*4/*7	Indeterminate
+NAT2	ZWS_ZWS34_ZWS34	*5/*6	Indeterminate
+NAT2	ZWS_ZWS35_ZWS35	*6/*14	Indeterminate
+NAT2	ZWS_ZWS37_ZWS37	*5/*5	Indeterminate
+NAT2	ZWS_ZWS39_ZWS39	*5/*5	Indeterminate
+NAT2	ZWS_ZWS40_ZWS40	*4/*5	Indeterminate
+NAT2	ZWS_ZWS4_ZWS4	*4/*6	Indeterminate
+NAT2	ZWS_ZWS5_ZWS5	*6/*14	Indeterminate
+NAT2	ZWS_ZWS6_ZWS6	*5/*6	Indeterminate
+SLCO1B1	KNK_KNK100_KNK100	*1/*37	Normal Function
+SLCO1B1	KNK_KNK102_KNK102	*1/*1	Normal Function
+SLCO1B1	KNK_KNK103_KNK103	*37/*37	Normal Function
+SLCO1B1	KNK_KNK86_KNK86	*37/*37	Normal Function
+SLCO1B1	KNK_KNK90_KNK90	*14/*37	Normal Function
+SLCO1B1	KNK_KNK91_KNK91	*1/*20	Normal Function
+SLCO1B1	KNK_KNK92_KNK92	*20/*37	Normal Function
+SLCO1B1	KNK_KNK95_KNK95	*1/*1	Normal Function
+SLCO1B1	KNK_KNK96_KNK96	*37/*37	Normal Function
+SLCO1B1	KNK_KNK97_KNK97	*37/*37	Normal Function
+SLCO1B1	KNK_KNK98_KNK98	*37/*37	Normal Function
+SLCO1B1	KNL_KNL14_KNL14	*37/*37	Normal Function
+SLCO1B1	KNL_KNL2_KNL2	*1/*9	Decreased Function
+SLCO1B1	KNL_KNL42_KNL42	*1/*1	Normal Function
+SLCO1B1	KNL_KNL54_KNL54	*1/*1	Normal Function
+SLCO1B1	KNL_KNL59_KNL59	*1/*1	Normal Function
+SLCO1B1	KNL_KNL72_KNL72	*1/*37	Normal Function
+SLCO1B1	KNL_KNL77_KNL77	*37/*37	Normal Function
+SLCO1B1	KNL_KNL79_KNL79	*1/*1	Normal Function
+SLCO1B1	KNL_KNL87_KNL87	*37/*37	Normal Function
+SLCO1B1	KNM_KNM49_KNM49	*1/*41	Indeterminate
+SLCO1B1	KNM_KNM64_KNM64	*37/*37	Normal Function
+SLCO1B1	KNM_KNM84_KNM84	*1/*37	Normal Function
+SLCO1B1	KNP_KNP160_KNP160	*37/*37	Normal Function
+SLCO1B1	KNP_KNP194_KNP194	*1/*37	Normal Function
+SLCO1B1	KNP_KNP56_KNP56	*1/*1	Normal Function
+SLCO1B1	KNP_KNP64_KNP64	*37/*37	Normal Function
+SLCO1B1	NGH_NGH27_NGH27	*14/*20	Increased Function
+SLCO1B1	NGH_NGH50_NGH50	*1/*37	Normal Function
+SLCO1B1	NGI_NGI16_NGI16	*1/*1	Normal Function
+SLCO1B1	NGI_NGI25_NGI25	*4/*9	Possible Decreased Function
+SLCO1B1	NGI_NGI31_NGI31	*27/*37	Indeterminate
+SLCO1B1	NGI_NGI38_NGI38	*1/*9	Decreased Function
+SLCO1B1	NGI_NGI60_NGI60	*1/*37	Normal Function
+SLCO1B1	NGY_NGY21_NGY21	*31/*37	Decreased Function
+SLCO1B1	NGY_NGY22_NGY22	*1/*1	Normal Function
+SLCO1B1	NGY_NGY27_NGY27	*1/*41	Indeterminate
+SLCO1B1	NGY_NGY28_NGY28	*27/*37	Indeterminate
+SLCO1B1	NGY_NGY30_NGY30	*37/*37	Normal Function
+SLCO1B1	NGY_NGY37_NGY37	*43/*43	Indeterminate
+SLCO1B1	NGY_NGY3_NGY3	*31/*37	Decreased Function
+SLCO1B1	NGY_NGY40_NGY40	*1/*9	Decreased Function
+SLCO1B1	NGY_NGY42_NGY42	*1/*37	Normal Function
+SLCO1B1	NGY_NGY44_NGY44	*1/*1	Normal Function
+SLCO1B1	NGY_NGY45_NGY45	*37/*41	Indeterminate
+SLCO1B1	NGY_NGY47_NGY47	*27/*37	Indeterminate
+SLCO1B1	SAV_SAV09_SAV09	*37/*37	Normal Function
+SLCO1B1	SAV_SAV10_SAV10	*37/*37	Normal Function
+SLCO1B1	SAV_SAV16_SAV16	*1/*4	Indeterminate
+SLCO1B1	SAV_SAV17_SAV17	*27/*37	Indeterminate
+SLCO1B1	SAV_SAV18_SAV18	*1/*1	Normal Function
+SLCO1B1	SAV_SAV20_SAV20	*37/*37	Normal Function
+SLCO1B1	SAV_SAV23_SAV23	*1/*1	Normal Function
+SLCO1B1	SAV_SAV24_SAV24	*20/*43	Indeterminate
+SLCO1B1	SAV_SAV26_SAV26	*37/*37	Normal Function
+SLCO1B1	SAV_SAV31_SAV31	*37/*37	Normal Function
+SLCO1B1	SAV_SAV32_SAV32	*37/*37	Normal Function
+SLCO1B1	SAV_SAV37_SAV37	*1/*1	Normal Function
+SLCO1B1	SAV_SAV38_SAV38	*31/*37	Decreased Function
+SLCO1B1	SAV_SAV3_SAV3	*20/*37	Normal Function
+SLCO1B1	SAV_SAV45_SAV45	*37/*37	Normal Function
+SLCO1B1	SAV_SAV49_SAV49	*31/*37	Decreased Function
+SLCO1B1	SAV_SAV56_SAV56	*1/*41	Indeterminate
+SLCO1B1	SAV_SAV61_SAV61	*9/*37	Decreased Function
+SLCO1B1	SAV_SAV81_SAV81	*20/*37	Normal Function
+SLCO1B1	TZA_TZA105_TZA105	*1/*1	Normal Function
+SLCO1B1	TZA_TZA107_TZA107	*1/*5	Decreased Function
+SLCO1B1	TZA_TZA112_TZA112	*20/*37	Normal Function
+SLCO1B1	TZA_TZA113_TZA113	*1/*1	Normal Function
+SLCO1B1	TZA_TZA115_TZA115	*1/*1	Normal Function
+SLCO1B1	TZA_TZA117_TZA117	*1/*1	Normal Function
+SLCO1B1	TZA_TZA123_TZA123	*37/*37	Normal Function
+SLCO1B1	TZA_TZA138_TZA138	*1/*37	Normal Function
+SLCO1B1	TZA_TZA141_TZA141	*15/*37	Decreased Function
+SLCO1B1	TZA_TZA151_TZA151	*20/*37	Normal Function
+SLCO1B1	TZA_TZA6_TZA6	*37/*37	Normal Function
+SLCO1B1	TZB_TZB03_TZB03	*37/*37	Normal Function
+SLCO1B1	TZB_TZB05_TZB05	*37/*37	Normal Function
+SLCO1B1	TZB_TZB19_TZB19	*20/*37	Normal Function
+SLCO1B1	TZB_TZB22_TZB22	*1/*1	Normal Function
+SLCO1B1	TZB_TZB24_TZB24	*37/*41	Indeterminate
+SLCO1B1	TZB_TZB25_TZB25	*1/*37	Normal Function
+SLCO1B1	TZB_TZB46_TZB46	*1/*19	Indeterminate
+SLCO1B1	TZB_TZB50_TZB50	*14/*37	Normal Function
+SLCO1B1	TZB_TZB57_TZB57	*1/*1	Normal Function
+SLCO1B1	TZB_TZB61_TZB61	*37/*37	Normal Function
+SLCO1B1	ZWD_ZWD10_ZWD10	*20/*20	Increased Function
+SLCO1B1	ZWD_ZWD13_ZWD13	*20/*37	Normal Function
+SLCO1B1	ZWD_ZWD16_ZWD16	*1/*1	Normal Function
+SLCO1B1	ZWD_ZWD23_ZWD23	*1/*37	Normal Function
+SLCO1B1	ZWD_ZWD24_ZWD24	*1/*37	Normal Function
+SLCO1B1	ZWD_ZWD30_ZWD30	*1/*37	Normal Function
+SLCO1B1	ZWD_ZWD32_ZWD32	*20/*37	Normal Function
+SLCO1B1	ZWD_ZWD33_ZWD33	*37/*37	Normal Function
+SLCO1B1	ZWD_ZWD35_ZWD35	*1/*1	Normal Function
+SLCO1B1	ZWD_ZWD37_ZWD37	*27/*37	Indeterminate
+SLCO1B1	ZWD_ZWD3_ZWD3	*37/*37	Normal Function
+SLCO1B1	ZWD_ZWD40_ZWD40	*37/*37	Normal Function
+SLCO1B1	ZWD_ZWD47_ZWD47	*27/*37	Indeterminate
+SLCO1B1	ZWD_ZWD4_ZWD4	*20/*37	Normal Function
+SLCO1B1	ZWD_ZWD52_ZWD52	*20/*37	Normal Function
+SLCO1B1	ZWD_ZWD53_ZWD53	*20/*37	Normal Function
+SLCO1B1	ZWD_ZWD54_ZWD54	*1/*1	Normal Function
+SLCO1B1	ZWD_ZWD57_ZWD57	*37/*37	Normal Function
+SLCO1B1	ZWD_ZWD58_ZWD58	*1/*19	Indeterminate
+SLCO1B1	ZWD_ZWD62_ZWD62	*37/*44	Indeterminate
+SLCO1B1	ZWD_ZWD8_ZWD8	*20/*37	Normal Function
+SLCO1B1	ZWS_ZWS10_ZWS10	*37/*41	Indeterminate
+SLCO1B1	ZWS_ZWS11_ZWS11	*37/*37	Normal Function
+SLCO1B1	ZWS_ZWS19_ZWS19	*37/*37	Normal Function
+SLCO1B1	ZWS_ZWS1_ZWS1	*37/*37	Normal Function
+SLCO1B1	ZWS_ZWS20_ZWS20	*1/*1	Normal Function
+SLCO1B1	ZWS_ZWS21_ZWS21	*1/*37	Normal Function
+SLCO1B1	ZWS_ZWS23_ZWS23	*20/*43	Indeterminate
+SLCO1B1	ZWS_ZWS28_ZWS28	*20/*31	Decreased Function
+SLCO1B1	ZWS_ZWS29_ZWS29	*37/*37	Normal Function
+SLCO1B1	ZWS_ZWS30_ZWS30	*1/*1	Normal Function
+SLCO1B1	ZWS_ZWS32_ZWS32	*43/*43	Indeterminate
+SLCO1B1	ZWS_ZWS33_ZWS33	*37/*37	Normal Function
+SLCO1B1	ZWS_ZWS34_ZWS34	*14/*37	Normal Function
+SLCO1B1	ZWS_ZWS35_ZWS35	*37/*37	Normal Function
+SLCO1B1	ZWS_ZWS37_ZWS37	*1/*37	Normal Function
+SLCO1B1	ZWS_ZWS39_ZWS39	*27/*37	Indeterminate
+SLCO1B1	ZWS_ZWS40_ZWS40	*37/*43	Indeterminate
+SLCO1B1	ZWS_ZWS4_ZWS4	*19/*37	Indeterminate
+SLCO1B1	ZWS_ZWS5_ZWS5	*31/*37	Decreased Function
+SLCO1B1	ZWS_ZWS6_ZWS6	*20/*37	Normal Function
+UGT1A1	KNK_KNK100_KNK100	*1/*1	Normal Metabolizer
+UGT1A1	KNK_KNK102_KNK102	*1/*37	Intermediate Metabolizer
+UGT1A1	KNK_KNK103_KNK103	*1/*28	Intermediate Metabolizer
+UGT1A1	KNK_KNK86_KNK86	*1/*28	Intermediate Metabolizer
+UGT1A1	KNK_KNK90_KNK90	*1/*1	Normal Metabolizer
+UGT1A1	KNK_KNK91_KNK91	*1/*28	Intermediate Metabolizer
+UGT1A1	KNK_KNK92_KNK92	*1/*28	Intermediate Metabolizer
+UGT1A1	KNK_KNK95_KNK95	*28/*36	Intermediate Metabolizer
+UGT1A1	KNK_KNK96_KNK96	*36/*37	Intermediate Metabolizer
+UGT1A1	KNK_KNK97_KNK97	*1/*28	Intermediate Metabolizer
+UGT1A1	KNK_KNK98_KNK98	*1/*28	Intermediate Metabolizer
+UGT1A1	KNL_KNL14_KNL14	*28/*80+*28	Poor Metabolizer
+UGT1A1	KNL_KNL2_KNL2	*28/*28	Poor Metabolizer
+UGT1A1	KNL_KNL42_KNL42	*1/*28	Intermediate Metabolizer
+UGT1A1	KNL_KNL54_KNL54	*28/*28	Poor Metabolizer
+UGT1A1	KNL_KNL59_KNL59	*1/*28	Intermediate Metabolizer
+UGT1A1	KNL_KNL72_KNL72	*1/*28	Intermediate Metabolizer
+UGT1A1	KNL_KNL77_KNL77	*28/*28	Poor Metabolizer
+UGT1A1	KNL_KNL79_KNL79	*1/*36	Normal Metabolizer
+UGT1A1	KNL_KNL87_KNL87	*1/*28	Intermediate Metabolizer
+UGT1A1	KNM_KNM49_KNM49	*28/*80+*28	Poor Metabolizer
+UGT1A1	KNM_KNM64_KNM64	*1/*28	Intermediate Metabolizer
+UGT1A1	KNM_KNM84_KNM84	*1/*28	Intermediate Metabolizer
+UGT1A1	KNP_KNP160_KNP160	*28/*80+*37	Poor Metabolizer
+UGT1A1	KNP_KNP194_KNP194	*28/*36	Intermediate Metabolizer
+UGT1A1	KNP_KNP56_KNP56	*1/*28	Intermediate Metabolizer
+UGT1A1	KNP_KNP64_KNP64	*1/*28	Intermediate Metabolizer
+UGT1A1	NGH_NGH27_NGH27	*1/*80+*37	Intermediate Metabolizer
+UGT1A1	NGH_NGH50_NGH50	*1/*80+*37	Intermediate Metabolizer
+UGT1A1	NGI_NGI16_NGI16	*1/*28	Intermediate Metabolizer
+UGT1A1	NGI_NGI25_NGI25	*1/*1	Normal Metabolizer
+UGT1A1	NGI_NGI31_NGI31	*1/*1	Normal Metabolizer
+UGT1A1	NGI_NGI38_NGI38	*28/*80+*28	Poor Metabolizer
+UGT1A1	NGI_NGI60_NGI60	*1/*80+*28	Intermediate Metabolizer
+UGT1A1	NGY_NGY21_NGY21	*1/*28	Intermediate Metabolizer
+UGT1A1	NGY_NGY22_NGY22	*1/*28	Intermediate Metabolizer
+UGT1A1	NGY_NGY27_NGY27	*1/*1	Normal Metabolizer
+UGT1A1	NGY_NGY28_NGY28	*1/*28	Intermediate Metabolizer
+UGT1A1	NGY_NGY30_NGY30	*1/*28	Intermediate Metabolizer
+UGT1A1	NGY_NGY37_NGY37	*28/*37	Poor Metabolizer
+UGT1A1	NGY_NGY3_NGY3	*28/*28	Poor Metabolizer
+UGT1A1	NGY_NGY40_NGY40	*1/*1	Normal Metabolizer
+UGT1A1	NGY_NGY42_NGY42	*1/*28	Intermediate Metabolizer
+UGT1A1	NGY_NGY44_NGY44	*28/*36	Intermediate Metabolizer
+UGT1A1	NGY_NGY45_NGY45	*1/*28	Intermediate Metabolizer
+UGT1A1	NGY_NGY47_NGY47	*1/*28	Intermediate Metabolizer
+UGT1A1	SAV_SAV09_SAV09	*1/*28	Intermediate Metabolizer
+UGT1A1	SAV_SAV10_SAV10	*1/*28	Intermediate Metabolizer
+UGT1A1	SAV_SAV16_SAV16	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV17_SAV17	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV18_SAV18	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV20_SAV20	*1/*28	Intermediate Metabolizer
+UGT1A1	SAV_SAV23_SAV23	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV24_SAV24	*1/*36	Normal Metabolizer
+UGT1A1	SAV_SAV26_SAV26	*28/*28	Poor Metabolizer
+UGT1A1	SAV_SAV31_SAV31	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV32_SAV32	*1/*28	Intermediate Metabolizer
+UGT1A1	SAV_SAV37_SAV37	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV38_SAV38	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV3_SAV3	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV45_SAV45	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV49_SAV49	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV56_SAV56	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV61_SAV61	*1/*1	Normal Metabolizer
+UGT1A1	SAV_SAV81_SAV81	*1/*28	Intermediate Metabolizer
+UGT1A1	TZA_TZA105_TZA105	*28/*80+*28	Poor Metabolizer
+UGT1A1	TZA_TZA107_TZA107	*1/*28	Intermediate Metabolizer
+UGT1A1	TZA_TZA112_TZA112	*1/*36	Normal Metabolizer
+UGT1A1	TZA_TZA113_TZA113	*1/*28	Intermediate Metabolizer
+UGT1A1	TZA_TZA115_TZA115	*36/*80+*28	Intermediate Metabolizer
+UGT1A1	TZA_TZA117_TZA117	*1/*28	Intermediate Metabolizer
+UGT1A1	TZA_TZA123_TZA123	*1/*1	Normal Metabolizer
+UGT1A1	TZA_TZA138_TZA138	*1/*1	Normal Metabolizer
+UGT1A1	TZA_TZA141_TZA141	*28/*36	Intermediate Metabolizer
+UGT1A1	TZA_TZA151_TZA151	*1/*1	Normal Metabolizer
+UGT1A1	TZA_TZA6_TZA6	*28/*37	Poor Metabolizer
+UGT1A1	TZB_TZB03_TZB03	*37/*37	Poor Metabolizer
+UGT1A1	TZB_TZB05_TZB05	*1/*1	Normal Metabolizer
+UGT1A1	TZB_TZB19_TZB19	*1/*28	Intermediate Metabolizer
+UGT1A1	TZB_TZB22_TZB22	*28/*80+*28	Poor Metabolizer
+UGT1A1	TZB_TZB24_TZB24	*28/*37	Poor Metabolizer
+UGT1A1	TZB_TZB25_TZB25	*28/*37	Poor Metabolizer
+UGT1A1	TZB_TZB46_TZB46	*1/*1	Normal Metabolizer
+UGT1A1	TZB_TZB50_TZB50	*1/*1	Normal Metabolizer
+UGT1A1	TZB_TZB57_TZB57	*1/*80+*28	Intermediate Metabolizer
+UGT1A1	TZB_TZB61_TZB61	*28/*37	Poor Metabolizer
+UGT1A1	ZWD_ZWD10_ZWD10	*1/*1	Normal Metabolizer
+UGT1A1	ZWD_ZWD13_ZWD13	*1/*80+*28	Intermediate Metabolizer
+UGT1A1	ZWD_ZWD16_ZWD16	*1/*37	Intermediate Metabolizer
+UGT1A1	ZWD_ZWD23_ZWD23	*28/*80+*28	Poor Metabolizer
+UGT1A1	ZWD_ZWD24_ZWD24	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWD_ZWD30_ZWD30	*28/*37	Poor Metabolizer
+UGT1A1	ZWD_ZWD32_ZWD32	*28/*80+*28	Poor Metabolizer
+UGT1A1	ZWD_ZWD33_ZWD33	*28/*37	Poor Metabolizer
+UGT1A1	ZWD_ZWD35_ZWD35	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWD_ZWD37_ZWD37	*1/*1	Normal Metabolizer
+UGT1A1	ZWD_ZWD3_ZWD3	*28/*28	Poor Metabolizer
+UGT1A1	ZWD_ZWD40_ZWD40	*1/*37	Intermediate Metabolizer
+UGT1A1	ZWD_ZWD47_ZWD47	*28/*80+*28	Poor Metabolizer
+UGT1A1	ZWD_ZWD4_ZWD4	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWD_ZWD52_ZWD52	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWD_ZWD53_ZWD53	*28/*28	Poor Metabolizer
+UGT1A1	ZWD_ZWD54_ZWD54	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWD_ZWD57_ZWD57	*28/*80+*37	Poor Metabolizer
+UGT1A1	ZWD_ZWD58_ZWD58	*1/*36	Normal Metabolizer
+UGT1A1	ZWD_ZWD62_ZWD62	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWD_ZWD8_ZWD8	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWS_ZWS10_ZWS10	*1/*36	Normal Metabolizer
+UGT1A1	ZWS_ZWS11_ZWS11	*1/*1	Normal Metabolizer
+UGT1A1	ZWS_ZWS19_ZWS19	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWS_ZWS1_ZWS1	*28/*28	Poor Metabolizer
+UGT1A1	ZWS_ZWS20_ZWS20	*1/*36	Normal Metabolizer
+UGT1A1	ZWS_ZWS21_ZWS21	*28/*36	Intermediate Metabolizer
+UGT1A1	ZWS_ZWS23_ZWS23	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWS_ZWS28_ZWS28	*1/*36	Normal Metabolizer
+UGT1A1	ZWS_ZWS29_ZWS29	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWS_ZWS30_ZWS30	*28/*28	Poor Metabolizer
+UGT1A1	ZWS_ZWS32_ZWS32	*1/*1	Normal Metabolizer
+UGT1A1	ZWS_ZWS33_ZWS33	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWS_ZWS34_ZWS34	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWS_ZWS35_ZWS35	*1/*1	Normal Metabolizer
+UGT1A1	ZWS_ZWS37_ZWS37	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWS_ZWS39_ZWS39	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWS_ZWS40_ZWS40	*1/*28	Intermediate Metabolizer
+UGT1A1	ZWS_ZWS4_ZWS4	*1/*80+*28	Intermediate Metabolizer
+UGT1A1	ZWS_ZWS5_ZWS5	*1/*1	Normal Metabolizer
+UGT1A1	ZWS_ZWS6_ZWS6	*1/*80+*28	Intermediate Metabolizer

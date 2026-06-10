@@ -1,0 +1,160 @@
+Gene,Population,Phenotype,Count,N,Pct
+CYP2C19,KNK,Normal Metabolizer,8,11,72.7
+CYP2C19,KNK,Intermediate Metabolizer,3,11,27.3
+CYP2C19,KNL,Intermediate Metabolizer,4,9,44.4
+CYP2C19,KNL,Normal Metabolizer,5,9,55.6
+CYP2C19,KNM,Normal Metabolizer,3,3,100.0
+CYP2C19,KNP,Normal Metabolizer,4,4,100.0
+CYP2C19,NGH,Intermediate Metabolizer,1,2,50.0
+CYP2C19,NGH,Normal Metabolizer,1,2,50.0
+CYP2C19,NGI,Poor Metabolizer,1,5,20.0
+CYP2C19,NGI,Normal Metabolizer,2,5,40.0
+CYP2C19,NGI,Intermediate Metabolizer,2,5,40.0
+CYP2C19,NGY,Normal Metabolizer,8,12,66.7
+CYP2C19,NGY,Intermediate Metabolizer,3,12,25.0
+CYP2C19,NGY,Likely Intermediate Metabolizer,1,12,8.3
+CYP2C19,SAV,Intermediate Metabolizer,3,19,15.8
+CYP2C19,SAV,Likely Intermediate Metabolizer,2,19,10.5
+CYP2C19,SAV,Normal Metabolizer,13,19,68.4
+CYP2C19,SAV,Likely Poor Metabolizer,1,19,5.3
+CYP2C19,TZA,Normal Metabolizer,6,11,54.5
+CYP2C19,TZA,Indeterminate,1,11,9.1
+CYP2C19,TZA,Poor Metabolizer,1,11,9.1
+CYP2C19,TZA,Likely Intermediate Metabolizer,1,11,9.1
+CYP2C19,TZA,Intermediate Metabolizer,2,11,18.2
+CYP2C19,TZB,Normal Metabolizer,7,10,70.0
+CYP2C19,TZB,Likely Intermediate Metabolizer,1,10,10.0
+CYP2C19,TZB,Intermediate Metabolizer,2,10,20.0
+CYP2C19,ZWD,Normal Metabolizer,15,21,71.4
+CYP2C19,ZWD,Intermediate Metabolizer,5,21,23.8
+CYP2C19,ZWD,Likely Poor Metabolizer,1,21,4.8
+CYP2C19,ZWS,Normal Metabolizer,10,20,50.0
+CYP2C19,ZWS,Likely Intermediate Metabolizer,4,20,20.0
+CYP2C19,ZWS,Intermediate Metabolizer,5,20,25.0
+CYP2C19,ZWS,Poor Metabolizer,1,20,5.0
+CYP2C9,KNK,Intermediate Metabolizer,3,11,27.3
+CYP2C9,KNK,Normal Metabolizer,8,11,72.7
+CYP2C9,KNL,Normal Metabolizer,8,9,88.9
+CYP2C9,KNL,Intermediate Metabolizer,1,9,11.1
+CYP2C9,KNM,Normal Metabolizer,3,3,100.0
+CYP2C9,KNP,Normal Metabolizer,2,4,50.0
+CYP2C9,KNP,Intermediate Metabolizer,2,4,50.0
+CYP2C9,NGH,Intermediate Metabolizer,1,2,50.0
+CYP2C9,NGH,Normal Metabolizer,1,2,50.0
+CYP2C9,NGI,Normal Metabolizer,4,5,80.0
+CYP2C9,NGI,Indeterminate,1,5,20.0
+CYP2C9,NGY,Normal Metabolizer,11,12,91.7
+CYP2C9,NGY,Indeterminate,1,12,8.3
+CYP2C9,SAV,Intermediate Metabolizer,8,19,42.1
+CYP2C9,SAV,Normal Metabolizer,11,19,57.9
+CYP2C9,TZA,Intermediate Metabolizer,3,11,27.3
+CYP2C9,TZA,Normal Metabolizer,8,11,72.7
+CYP2C9,TZB,Intermediate Metabolizer,4,10,40.0
+CYP2C9,TZB,Normal Metabolizer,6,10,60.0
+CYP2C9,ZWD,Normal Metabolizer,15,21,71.4
+CYP2C9,ZWD,Intermediate Metabolizer,6,21,28.6
+CYP2C9,ZWS,Normal Metabolizer,14,20,70.0
+CYP2C9,ZWS,Intermediate Metabolizer,6,20,30.0
+CYP3A5,KNK,Intermediate Metabolizer,6,11,54.5
+CYP3A5,KNK,Normal Metabolizer,3,11,27.3
+CYP3A5,KNK,Poor Metabolizer,2,11,18.2
+CYP3A5,KNL,Intermediate Metabolizer,5,9,55.6
+CYP3A5,KNL,Normal Metabolizer,2,9,22.2
+CYP3A5,KNL,Poor Metabolizer,2,9,22.2
+CYP3A5,KNM,Poor Metabolizer,1,3,33.3
+CYP3A5,KNM,Intermediate Metabolizer,1,3,33.3
+CYP3A5,KNM,Normal Metabolizer,1,3,33.3
+CYP3A5,KNP,Intermediate Metabolizer,3,4,75.0
+CYP3A5,KNP,Normal Metabolizer,1,4,25.0
+CYP3A5,NGH,Intermediate Metabolizer,2,2,100.0
+CYP3A5,NGI,Intermediate Metabolizer,4,5,80.0
+CYP3A5,NGI,Normal Metabolizer,1,5,20.0
+CYP3A5,NGY,Normal Metabolizer,3,12,25.0
+CYP3A5,NGY,Intermediate Metabolizer,6,12,50.0
+CYP3A5,NGY,Poor Metabolizer,3,12,25.0
+CYP3A5,SAV,Intermediate Metabolizer,8,19,42.1
+CYP3A5,SAV,Poor Metabolizer,6,19,31.6
+CYP3A5,SAV,Normal Metabolizer,5,19,26.3
+CYP3A5,TZA,Intermediate Metabolizer,6,11,54.5
+CYP3A5,TZA,Normal Metabolizer,2,11,18.2
+CYP3A5,TZA,Poor Metabolizer,3,11,27.3
+CYP3A5,TZB,Intermediate Metabolizer,4,10,40.0
+CYP3A5,TZB,Poor Metabolizer,4,10,40.0
+CYP3A5,TZB,Normal Metabolizer,2,10,20.0
+CYP3A5,ZWD,Poor Metabolizer,10,21,47.6
+CYP3A5,ZWD,Intermediate Metabolizer,10,21,47.6
+CYP3A5,ZWD,Normal Metabolizer,1,21,4.8
+CYP3A5,ZWS,Poor Metabolizer,5,20,25.0
+CYP3A5,ZWS,Intermediate Metabolizer,12,20,60.0
+CYP3A5,ZWS,Normal Metabolizer,3,20,15.0
+NAT2,KNK,Indeterminate,11,11,100.0
+NAT2,KNL,Indeterminate,9,9,100.0
+NAT2,KNM,Indeterminate,3,3,100.0
+NAT2,KNP,Indeterminate,4,4,100.0
+NAT2,NGH,Indeterminate,2,2,100.0
+NAT2,NGI,Indeterminate,5,5,100.0
+NAT2,NGY,Indeterminate,12,12,100.0
+NAT2,SAV,Indeterminate,19,19,100.0
+NAT2,TZA,Indeterminate,11,11,100.0
+NAT2,TZB,Indeterminate,10,10,100.0
+NAT2,ZWD,Indeterminate,21,21,100.0
+NAT2,ZWS,Indeterminate,20,20,100.0
+SLCO1B1,KNK,Normal Function,11,11,100.0
+SLCO1B1,KNL,Normal Function,8,9,88.9
+SLCO1B1,KNL,Decreased Function,1,9,11.1
+SLCO1B1,KNM,Indeterminate,1,3,33.3
+SLCO1B1,KNM,Normal Function,2,3,66.7
+SLCO1B1,KNP,Normal Function,4,4,100.0
+SLCO1B1,NGH,Increased Function,1,2,50.0
+SLCO1B1,NGH,Normal Function,1,2,50.0
+SLCO1B1,NGI,Normal Function,2,5,40.0
+SLCO1B1,NGI,Possible Decreased Function,1,5,20.0
+SLCO1B1,NGI,Indeterminate,1,5,20.0
+SLCO1B1,NGI,Decreased Function,1,5,20.0
+SLCO1B1,NGY,Decreased Function,3,12,25.0
+SLCO1B1,NGY,Normal Function,4,12,33.3
+SLCO1B1,NGY,Indeterminate,5,12,41.7
+SLCO1B1,SAV,Normal Function,12,19,63.2
+SLCO1B1,SAV,Indeterminate,4,19,21.1
+SLCO1B1,SAV,Decreased Function,3,19,15.8
+SLCO1B1,TZA,Normal Function,9,11,81.8
+SLCO1B1,TZA,Decreased Function,2,11,18.2
+SLCO1B1,TZB,Normal Function,8,10,80.0
+SLCO1B1,TZB,Indeterminate,2,10,20.0
+SLCO1B1,ZWD,Increased Function,1,21,4.8
+SLCO1B1,ZWD,Normal Function,16,21,76.2
+SLCO1B1,ZWD,Indeterminate,4,21,19.0
+SLCO1B1,ZWS,Indeterminate,6,20,30.0
+SLCO1B1,ZWS,Normal Function,12,20,60.0
+SLCO1B1,ZWS,Decreased Function,2,20,10.0
+UGT1A1,KNK,Normal Metabolizer,2,11,18.2
+UGT1A1,KNK,Intermediate Metabolizer,9,11,81.8
+UGT1A1,KNL,Poor Metabolizer,4,9,44.4
+UGT1A1,KNL,Intermediate Metabolizer,4,9,44.4
+UGT1A1,KNL,Normal Metabolizer,1,9,11.1
+UGT1A1,KNM,Poor Metabolizer,1,3,33.3
+UGT1A1,KNM,Intermediate Metabolizer,2,3,66.7
+UGT1A1,KNP,Poor Metabolizer,1,4,25.0
+UGT1A1,KNP,Intermediate Metabolizer,3,4,75.0
+UGT1A1,NGH,Intermediate Metabolizer,2,2,100.0
+UGT1A1,NGI,Intermediate Metabolizer,2,5,40.0
+UGT1A1,NGI,Normal Metabolizer,2,5,40.0
+UGT1A1,NGI,Poor Metabolizer,1,5,20.0
+UGT1A1,NGY,Intermediate Metabolizer,8,12,66.7
+UGT1A1,NGY,Normal Metabolizer,2,12,16.7
+UGT1A1,NGY,Poor Metabolizer,2,12,16.7
+UGT1A1,SAV,Intermediate Metabolizer,5,19,26.3
+UGT1A1,SAV,Normal Metabolizer,13,19,68.4
+UGT1A1,SAV,Poor Metabolizer,1,19,5.3
+UGT1A1,TZA,Poor Metabolizer,2,11,18.2
+UGT1A1,TZA,Intermediate Metabolizer,5,11,45.5
+UGT1A1,TZA,Normal Metabolizer,4,11,36.4
+UGT1A1,TZB,Poor Metabolizer,5,10,50.0
+UGT1A1,TZB,Normal Metabolizer,3,10,30.0
+UGT1A1,TZB,Intermediate Metabolizer,2,10,20.0
+UGT1A1,ZWD,Normal Metabolizer,3,21,14.3
+UGT1A1,ZWD,Intermediate Metabolizer,10,21,47.6
+UGT1A1,ZWD,Poor Metabolizer,8,21,38.1
+UGT1A1,ZWS,Normal Metabolizer,7,20,35.0
+UGT1A1,ZWS,Intermediate Metabolizer,11,20,55.0
+UGT1A1,ZWS,Poor Metabolizer,2,20,10.0
