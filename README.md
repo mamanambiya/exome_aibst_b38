@@ -34,18 +34,23 @@ population-level analysis, and reporting:
 
 - Nextflow (≥ 22.10)
 - Singularity (or Docker)
-- A SLURM HPC cluster (configs provided for ILIFU, HPC, CHPC)
+- A SLURM HPC cluster (ILIFU configs provided)
 
 ### Run
+
+The manuscript results use the DeepVariant WES +2 kb-padded GRCh38 track,
+configured by layering the base config with the DeepVariant overlay:
 
 ```bash
 nextflow run main.nf \
     -profile singularity,slurm \
-    -c ILIFU/exome_analysis_nextflow.config
+    -c ILIFU/exome_analysis_nextflow.config \
+    -c ILIFU/dv_wes_padded_2kb.config
 ```
 
-The pipeline entry point is `main.nf` (DSL2). Cluster-specific submission
-scripts live under `ILIFU/`, `HPC/`, and `CHPC/`.
+The pipeline entry point is `main.nf` (DSL2). The cluster configs under
+`ILIFU/` use absolute paths specific to the authors' environment and must be
+adapted for other sites.
 
 ## Repository Layout
 
@@ -70,7 +75,7 @@ scripts live under `ILIFU/`, `HPC/`, and `CHPC/`.
 │   └── subset_vcf.nf       # VCF subsetting
 ├── templates/              # Process scripts (Python / R)
 ├── bin/                    # Helper scripts
-├── ILIFU/                  # ILIFU cluster configs + submission scripts
+├── ILIFU/                  # ILIFU cluster configs (base + DeepVariant track overlay)
 ├── docs/                   # Workflow architecture and graph documentation
 └── supp/                   # Supplementary tables published with the manuscript
 ```
