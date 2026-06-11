@@ -101,7 +101,7 @@ If you use this pipeline, please cite both the software and the manuscript:
 
 > **Software:** Mbiyavanga M, et al. *African Exome Analysis Workflow.*
 > Zenodo. <https://doi.org/10.5281/zenodo.20639159>
-
+>
 > **Manuscript:** Mbiyavanga M, et al. *Pharmacogenomic diversity across 12
 > African populations.* (manuscript in preparation).
 
