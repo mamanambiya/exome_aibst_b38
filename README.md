@@ -1,6 +1,6 @@
 # African Exome Analysis Workflow
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20639159.svg)](https://doi.org/10.5281/zenodo.20639159)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20639159-blue)](https://doi.org/10.5281/zenodo.20639159)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A comprehensive Nextflow DSL2 pipeline for analysing whole-exome sequencing
