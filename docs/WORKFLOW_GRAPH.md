@@ -13,12 +13,6 @@ graph TB
     Phase5 --> End([Complete])
     Phase6 --> End
     
-    style Phase1 fill:#e1f5ff
-    style Phase2 fill:#fff4e1
-    style Phase3 fill:#ffe1f5
-    style Phase4 fill:#e1ffe1
-    style Phase5 fill:#f5e1ff
-    style Phase6 fill:#e1e8ff
 ```
 
 ## PHASE 1: Core Data Processing (data_proc)
@@ -75,11 +69,6 @@ graph TB
     Singleton --> OUT3
     AnnotCV --> OUT4
     
-    style QC fill:#ffcccc
-    style SnpEff fill:#ccffcc
-    style DbSNP fill:#ccffcc
-    style ClinVar fill:#ccffcc
-    style COSMIC fill:#ccffcc
 ```
 
 ## PHASE 2: Population Grouping
@@ -112,9 +101,6 @@ graph TB
     Group2Pop --> OUT3
     Group2PGx --> OUT3
     
-    style SplitPop fill:#fff4cc
-    style ExtractPGx fill:#fff4cc
-    style ConcatPop fill:#fff4cc
 ```
 
 ## PHASE 3: Statistical Analyses
@@ -158,9 +144,6 @@ graph TB
     CombineFST --> OUT2
     GenMatrix --> OUT3
     
-    style FisherTest1 fill:#e1f5ff
-    style FisherTest2 fill:#e1f5ff
-    style FSTAnalysis fill:#ffe1f5
 ```
 
 ## PHASE 4: HDV Detection (Highly Differentiated Variants)
@@ -194,9 +177,6 @@ graph TB
     AggAll --> OUT2
     AggBase --> OUT3
     
-    style HDV fill:#ccffcc
-    style CombAll fill:#ffccff
-    style AggAll fill:#ffccff
 ```
 
 ## PHASE 5: Consequence Analysis (Optional)
@@ -214,10 +194,10 @@ graph TB
         CountPGx[count_pgx_dataset<br/>Count PGx variants]
     end
     
-    style CSQ fill:#cccccc,stroke-dasharray: 5 5
-    style PlotCSQ fill:#cccccc,stroke-dasharray: 5 5
-    style CountAll fill:#cccccc,stroke-dasharray: 5 5
-    style CountPGx fill:#cccccc,stroke-dasharray: 5 5
+    style CSQ stroke-dasharray:5 5,stroke:#888,color:#888
+    style PlotCSQ stroke-dasharray:5 5,stroke:#888,color:#888
+    style CountAll stroke-dasharray:5 5,stroke:#888,color:#888
+    style CountPGx stroke-dasharray:5 5,stroke:#888,color:#888
 ```
 
 ## PHASE 6: Population Structure (PCA & ADMIXTURE)
@@ -258,10 +238,6 @@ graph TB
     PlotAdm --> OUT2
     CombCV --> OUT3
 
-    style SmartPCA fill:#e1e8ff
-    style RunAdm fill:#e1e8ff
-    style PlotPCA fill:#d1f5e1
-    style PlotAdm fill:#d1f5e1
 ```
 
 ## Data Flow Summary
@@ -282,17 +258,8 @@ graph LR
     B -.-> H[Optional: CSQ]
     B -.-> J[Optional: Counts]
     
-    style A fill:#e1f5ff
-    style B fill:#ccffcc
-    style C fill:#fff4cc
-    style D fill:#ffe1cc
-    style E1 fill:#e1f5ff
-    style E2 fill:#ffe1f5
-    style F fill:#ccffcc
-    style G fill:#ccffff
-    style K fill:#e1e8ff
-    style H fill:#cccccc,stroke-dasharray: 5 5
-    style J fill:#cccccc,stroke-dasharray: 5 5
+    style H stroke-dasharray:5 5,stroke:#888,color:#888
+    style J stroke-dasharray:5 5,stroke:#888,color:#888
 ```
 
 ## Key Process Characteristics
