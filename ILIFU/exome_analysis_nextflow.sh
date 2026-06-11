@@ -16,7 +16,7 @@ set -euo pipefail
 # Directories
 WORK_DIR="/cbio/users/mamana/exome_aibst_b38"
 CONFIG="${WORK_DIR}/HPC/exome_analysis_nextflow.config"
-WORKFLOW="${WORK_DIR}/main_2025.nf"
+WORKFLOW="${WORK_DIR}/main.nf"
 OUTPUT_DIR="${WORK_DIR}/results"
 LOG_DIR="${WORK_DIR}/logs"
 

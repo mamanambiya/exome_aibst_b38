@@ -82,7 +82,7 @@ The script will:
 ```bash
 cd /users/mamana/exome_aibst_b38
 
-nextflow run main_2025.nf \
+nextflow run main.nf \
     -c ILIFU/exome_analysis_nextflow.config \
     -profile singularity \
     -resume
@@ -132,7 +132,7 @@ nextflow config ILIFU/exome_analysis_nextflow.config
 
 ### Check Workflow File
 ```bash
-ls -l /users/mamana/exome_aibst_b38/main_2025.nf
+ls -l /users/mamana/exome_aibst_b38/main.nf
 ```
 
 ## Dependencies

@@ -39,19 +39,19 @@ population-level analysis, and reporting:
 ### Run
 
 ```bash
-nextflow run main_2025.nf \
+nextflow run main.nf \
     -profile singularity,slurm \
     -c ILIFU/exome_analysis_nextflow.config
 ```
 
-The pipeline entry point is `main_2025.nf` (DSL2). Cluster-specific submission
+The pipeline entry point is `main.nf` (DSL2). Cluster-specific submission
 scripts live under `ILIFU/`, `HPC/`, and `CHPC/`.
 
 ## Repository Layout
 
 ```text
 .
-├── main_2025.nf            # Pipeline entry point (DSL2)
+├── main.nf            # Pipeline entry point (DSL2)
 ├── module/                 # Process modules
 │   ├── vcf_qc.nf           # Quality control
 │   ├── annotate_vcf.nf     # SnpEff / dbSNP / ClinVar / COSMIC annotation

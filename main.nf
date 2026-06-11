@@ -20,7 +20,7 @@
     - Optimized performance through better channel management
 
     Usage:
-        nextflow run main_2025.nf -profile singularity,slurm -c CONFIG_FILE
+        nextflow run main.nf -profile singularity,slurm -c CONFIG_FILE
 
     For detailed documentation, see:
         - README.md: Quick start and overview
