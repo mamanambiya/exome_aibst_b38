@@ -1,5 +1,8 @@
 # African Exome Analysis Workflow
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20639159.svg)](https://doi.org/10.5281/zenodo.20639159)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A comprehensive Nextflow DSL2 pipeline for analysing whole-exome sequencing
 data from African populations, with a focus on pharmacogenomic (PGx) variants,
 population structure, and highly differentiated variants (HDV).
@@ -94,10 +97,13 @@ OptiType, arcasHLA, Python 3 (pandas, numpy, scipy), R (ggplot2, tidyverse).
 
 ## Citation
 
-If you use this pipeline, please cite:
+If you use this pipeline, please cite both the software and the manuscript:
 
-> Mbiyavanga M, et al. *Pharmacogenomic diversity across 12 African
-> populations.* (manuscript in preparation).
+> **Software:** Mbiyavanga M, et al. *African Exome Analysis Workflow.*
+> Zenodo. <https://doi.org/10.5281/zenodo.20639159>
+
+> **Manuscript:** Mbiyavanga M, et al. *Pharmacogenomic diversity across 12
+> African populations.* (manuscript in preparation).
 
 ## Contact
 
