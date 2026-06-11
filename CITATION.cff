@@ -7,8 +7,35 @@ type: software
 authors:
   - given-names: Mamana
     family-names: Mbiyavanga
-    affiliation: Computational Biology Division, University of Cape Town
+    affiliation: University of Cape Town
     email: mamana.mbiyavanga@uct.ac.za
+  - given-names: Adrian Tinashe
+    family-names: Mazhindu
+    affiliation: African Institute of Biomedical Science and Technology
+  - given-names: Martin
+    family-names: Beibel
+    affiliation: Novartis Pharma AG
+  - given-names: Guglielmo
+    family-names: Roma
+    affiliation: Novartis Pharma AG
+  - given-names: Judith
+    family-names: Knehr
+    affiliation: Novartis Pharma AG
+  - given-names: Walter
+    family-names: Carbone
+    affiliation: Novartis Pharma AG
+  - given-names: Julia
+    family-names: Stingl
+    affiliation: Heidelberg University
+  - given-names: Colin
+    family-names: Pillai
+    affiliation: CP+ Associates
+  - given-names: Nicola
+    family-names: Mulder
+    affiliation: University of Cape Town
+  - given-names: Collen
+    family-names: Masimirembwa
+    affiliation: African Institute of Biomedical Science and Technology
 repository-code: https://github.com/mamanambiya/exome_aibst_b38
 license: MIT
 keywords:
