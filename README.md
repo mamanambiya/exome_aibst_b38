@@ -34,12 +34,15 @@ population-level analysis, and reporting:
 
 - Nextflow (≥ 22.10)
 - Singularity (or Docker)
-- A SLURM HPC cluster (ILIFU configs provided)
+- A SLURM HPC cluster (optional) — or a single machine with enough RAM, using
+  Nextflow's built-in local executor (no cluster required)
 
 ### Run
 
 The manuscript results use the DeepVariant WES +2 kb-padded GRCh38 track,
-configured by layering the base config with the DeepVariant overlay:
+configured by layering the base config with the DeepVariant overlay.
+
+On a **SLURM cluster** (`slurm` profile submits each process as a job):
 
 ```bash
 nextflow run main.nf \
@@ -48,9 +51,21 @@ nextflow run main.nf \
     -c ILIFU/dv_wes_padded_2kb.config
 ```
 
-The pipeline entry point is `main.nf` (DSL2). The cluster configs under
-`ILIFU/` use absolute paths specific to the authors' environment and must be
-adapted for other sites.
+On a **single machine**, drop the `slurm` profile — Nextflow then runs every
+process locally:
+
+```bash
+nextflow run main.nf \
+    -profile singularity \
+    -c ILIFU/exome_analysis_nextflow.config \
+    -c ILIFU/dv_wes_padded_2kb.config
+```
+
+The pipeline entry point is `main.nf` (DSL2). Some steps request substantial
+memory (e.g. annotation and `smartpca`), so single-machine runs are best suited
+to a well-resourced workstation or a reduced dataset (set `chromosomes` in the
+config). The configs under `ILIFU/` use absolute paths specific to the authors'
+environment and must be adapted for other sites.
 
 ## Repository Layout
 
