@@ -1,7 +1,7 @@
 # Extended data — supplementary datasets
 
 Summary-level datasets underlying the figures and tables of the manuscript
-*Whole-exome sequencing of 12 African populations reveals up to 5.6-fold variation
+*Whole-exome sequencing of 12 African populations reveals up to 4.9-fold variation
 in predicted drug toxicity risk for essential medicines.*
 
 Raw whole-exome sequencing data are under EGA controlled access
@@ -12,37 +12,39 @@ outputs from the DeepVariant WES +2 kb-padded pipeline (GRCh38, 127 samples).
 
 | # | Dataset | Status | File(s) here |
 |---|---------|--------|--------------|
-| 1 | Per-population allele frequencies, clinically actionable variants | ⚠️ **needs regeneration** | not yet packaged — see note |
-| 2 | The 179 highly differentiated variants (HDVs) | ⚠️ **needs full columns** | not yet packaged — see note |
-| 3 | Novel pharmacogene variant catalogue | ⚠️ **definition in flux** | not yet packaged — see note |
+| 1 | Per-population allele frequencies, clinically actionable variants | ✅ included | `supp_table_actionable_variant_freqs.tsv` |
+| 2 | The 173 highly differentiated variants (HDVs) | ✅ included | `supp_table_hdvs.tsv` |
+| 3 | Novel pharmacogene variant catalogue | ✅ included | `supp_table_novel_pgx_catalogue.tsv` |
 | 4 | PyPGx diplotype / metaboliser calls | ✅ included | `pypgx_phenotypes_by_population.csv`, `supp_table_S3_pypgx_phenotypes.csv`, `pgx_star_allele_summary.tsv`, `nat2_phased_acetylator_phenotypes.tsv` |
 | 5 | HLA typing results (pharmacorelevant alleles) | ✅ included (summary) | `table9_hla_alleles.csv` |
 
-## Notes on the categories still to package
+## Notes on the packaged tables (1–3, built 2026-06-11)
 
-**1 — Per-population allele frequencies (actionable variants).** The existing
-workspace files (`table6_from_genotypes.csv`, `pgx_28_variant_status.csv`,
-`table4_pgx_variants_28.csv`) carry **scrambled / off-build coordinates**
-(e.g. rs8187710 was listed at chr10:99782821, which is actually rs717620; its
-true GRCh38 locus is chr10:99851537). The clean per-population MAFs currently
-exist only inside Table 6 of the manuscript `.tex`. Regenerate directly from the
-joint VCF before depositing.
+**1 — `supp_table_actionable_variant_freqs.tsv`** (25 actionable variants, 15
+genes). Per-population minor-allele frequencies (%) for the n≥8 populations
+(KNL, KNK, NGY, TZA, TZB, SAV, ZWD, ZWS) plus gnomAD AFR/EUR and the AFR-vs-EUR
+Fisher exact P, extracted from the manuscript's verified Table 6. NOTE: this
+supersedes the buggy `manuscript_data/tables/table6_from_genotypes.csv` /
+`pgx_28_variant_status.csv`, which carried **scrambled / off-build coordinates**
+(e.g. rs8187710 was wrongly at chr10:99782821 = rs717620; its true GRCh38 locus
+is chr10:99851537). `--` = not reliably callable (monomorphic / outside capture
+/ insufficient depth), per the manuscript footnotes.
 
-**2 — The 179 HDVs.** Only a bare `CHROM:POS:REF:ALT` list exists
-(`manuscript_data/hdv/ALL_hdv-…g2_all_all.csv`, 179 rows). A deposit-quality
-table needs gene, per-population AF, overall AF, effect class, and the Fisher
-exact P added (joinable from `ALL.frq` + the `fisher-test/` outputs on the
-cluster). 179 variants span 121 genes (179 records → 173 unique positions → 121
-genes).
+**2 — `supp_table_hdvs.tsv`** (173 highly differentiated variants, 121
+genes). rsID, locus, gene, effect, overall AiBST AF, all 12 per-population AFs,
+and max pairwise F_ST + the population pair driving it (from
+`pgx_max_fst_per_variant.tsv`; 80/173 have an F_ST value, the rest `.`). The 173
+variants span 121 unique genes, matching the manuscript's 173 HDVs (deduplicated
+from 179 raw records: 6 byte-identical duplicates removed).
 
-**3 — Novel pharmacogene variant catalogue.** No clean catalogue file exists yet,
-and the count is unsettled: prose says **565**, the regenerated figure caption
-says **469**, and an independent strict recompute (dbSNP b156 + gnomAD v4.1
-all-pop + AGVP b38, 2026-06-09) gives **470**. The exome-wide novel set was also
-recomputed to **16,934** (vs the manuscript's 52,748, which used the looser
-gnomAD-AFR-only filter). Settle the definition, then export the catalogue
-(key, gene, effect, per-population carriers) from the recompute work dir
-`/scratch3/users/mamana/exome_aibst_b38/sweep_checks/novel_v2/`.
+**3 — `supp_table_novel_pgx_catalogue.tsv`** (470 novel pharmacogene variants,
+all-population definition, ≈ the manuscript's 469). Locus, gene, effect, overall
+AF, 12 per-population AFs, carrier populations, and N populations. 86.4% are
+single-population (one carrier population). Definition = absent from dbSNP b156 +
+gnomAD v4.1 (all populations) + AGVP b38 — the same all-pop definition the
+manuscript adopted for Table 2 (17,528 exome-wide / 469 PGx). 410/470 carry
+per-population detail (60 lack a per-population freq record, shown as `.`).
+Recompute work dir: `/scratch3/users/mamana/exome_aibst_b38/sweep_checks/novel_v2/`.
 
 ## Provenance
 
